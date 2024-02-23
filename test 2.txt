@@ -1,0 +1,1437 @@
+Tikslas: Nustatyti prevencinių programų vykdymo tvarką, numatyti atsakomybes, 
+siekiant užtikrinti suplanuotų ir būtinųjų veiksmų kokybišką ir savalaikį 
+įgyvendinimą 
+Taikymo sritis: UAB InMedica,UAB „Kardiolita“ 
+Proceso šeimininkas: Prevencinių programų ir I lygio paslaugų vadovas 
+Dokumentas patvirtintas įsakymu: 
+UAB InMedica 2023-04-25 generalinio direktoriaus įsakymu Nr. 01B/23-55, 2023-05-30 
+generalinio direktoriaus įsakymu Nr. 01B/23-71; 
+UAB „Kardiolita“ 2023-04-25 vykdomojo direktoriaus įsakymu Nr. B-23-23, 2023-05-30 
+vykdomojo direktoriaus įsakymu Nr. B-23-28. 
+ 
+Parengė: Licencijavimo grupės vadovė Reda Augulė 
+Suderino: Mokslinių klinikinių tyrimų vadovė Jurgita Mikolaitytė 
+ 
+I lygio paslaugų vadovė Julita Čiužauskė 
+ 
+L.e. Kokybės departamento vadovės pareigas, 
+Medicininių procesų kokybės skyriaus vadovė Renata Kudukytė-Gasperė
+ 
+Regioninių klinikų vadovas Arūnas Ivanauskas
+ 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 2
+TURINYS 
+1. Naudojami terminai ir sutrumpinimai ..................................................................................... 3 
+2. Bendrosios nuostatos.............................................................................................................. 3 
+3. Detalizuota procedūros eiga.................................................................................................... 4 
+3.1. Gimdos kaklelio piktybinių navikų prevencinės programos priemonės ir jų įgyvendinimo tvarka .................... 4 
+3.2. Priešinės liaukos vėžio ankstyvosios diagnostikos programos priemonės ir jų įgyvendinimo tvarka ............. 6 
+3.3. Širdies ir kraujagyslių ligų didelės rizikos grupei priskirtinų asmenų atrankos ir prevencijos programos 
+įgyvendinimo tvarka ..................................................................................................................................................... 6 
+3.4. Storosios žarnos vėžio ankstyvosios diagnostikos programos priemonės ir jų įgyvendinimo tvarka.............. 9 
+3.5. Atrankinės mamografinės patikros dėl krūties vėžio programos priemonės ir jų įgyvendinimo tvarka ......... 11 
+3.6. Vaikų krūminių dantų dengimo silantinėmis medžiagomis programos priemonės ir jų įgyvendinimo tvarka12 
+3.7. Lėtinių ligų prevencijos ir sveikos gyvensenos skatinimas .................................................................................. 12 
+4. Pacientų, kuriems gali būti atlikta prevencinė programa nustatymo IS tvarka: ................ 13 
+5. Prevencinių programų pildymo tvarka IS programoje ......................................................... 13 
+6. Prevencinių programų atmetimas IS programoje FOXUS ................................................... 13 
+7. Prevencinių programų vykdymo algoritmas ir atsakomybė ................................................ 14 
+8. Nuorodos ................................................................................................................................ 14 
+1 priedas. Gimdos kaklelio vėžio ankstyvosios diagnostikos programos informacinis pranešimas. ..................... 15 
+2 priedas. Priešinės liaukos vėžio ankstyvosios diagnostikos programos informacinis pranešimas. ................... 16 
+3 priedas. Kvietimas dalyvauti Širdies ir kraujagyslių ligų prevencijos ir ankstyvosios diagnostikos programoje17 
+4 priedas. Metabolinio sindromo vertinimo kriterijai ir vertinimas ............................................................................... 18 
+5 priedas. Modifikuoti šeiminės dislipidemijos tikimybės diagnostikos kriterijai ....................................................... 18 
+6 priedas. SCORE 2 rizikos nustatymo lentelė ............................................................................................................. 19 
+7 priedas. Paciento priskyrimo atitinkamai širdies ir kraujagyslių ligų rizikos grupei kriterijai ................................ 20 
+8 priedas Paciento širdies ir kraujagyslių ligų rizikos nustatymo anketa .................................................................. 21 
+9 priedas. Paciento, priskirto širdies ir kraujagyslių ligų rizikos grupei, širdies ir kraujagyslių ligų prevencijos 
+priemonių planas ........................................................................................................................................................ 23 
+10 priedas. Informacinis pranešimas dėl storosios žarnos vėžio ankstyvosios diagnostikos programos ........... 24 
+11 priedas. Informacinis pranešimas dėl atrankinės mamografinės patikros dėl krūties vėžio 
+diagnostikos programos ............................................................................................................................................ 25 
+12 priedas. Informacinis pranešimas dėl atrankinės mamografinės patikros dėl krūties vėžio 
+diagnostikos programos ............................................................................................................................................ 26 
+ 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 3
+1. Naudojami terminai ir sutrumpinimai 
+Klinikos UAB InMedica, UAB „Kardiolita“
+LR Lietuvos Respublika. 
+Klinikos vadovas vykdantysis direktorius, padalinio, regiono vadovas ar vyr. slaugytojas
+Procedūra proceso aprašymas 
+Procesas tarpusavyje susietų ir sąveikaujančių veiklų visuma, kuri gavinius 
+paverčia rezultatais
+ESPBI IS elektroninės sveikatos paslaugų ir bendradarbiavimo infrastruktūros 
+informacinė sistema 
+E025 ambulatorinio apsilankymo aprašymas atitinkantis 025/a „Asmens 
+ambulatorinė sveikatos istorijos“ dalis 025-1/a „Įdėtinis lapas į 
+ambulatorinę kortelę“ statistinę apskaitos formą; 
+E027 siuntimas konsultacijai, tyrimams, gydymui atitinkantis 028-1/a 
+„Siuntimas tirti, konsultuoti ir gydyti“, 027/a „Medicinos dokumentų 
+išrašas“ “ statistinę apskaitos formą; 
+IS Klinikose naudojama asmens sveikatos priežiūros paslaugų teikimo 
+valdymo informacinė sistema
+ESPBI IS Elektroninė sveikatos paslaugų bendradarbiavimo infrastruktūros 
+informacinė sistema
+Portalas esveikata.lt Vartotojams (sveikatos priežiūros darbuotojams, pacientams ir kt.) 
+skirta ESPBI IS dalis
+PSDF Privalomojo sveikatos draudimo fondas 
+Padalinys Klinikų struktūrinis vienetas (šeimos klinika, odontologijos klinika, 
+poliklinika, ligoninė, slaugos padalinys ir pan.), kurioje teikiamos 
+asmens sveikatos priežiūros paslaugos
+TLK Teritorinė ligonių kasa 
+LR Lietuvos Respublika
+SAM Lietuvos Respublikos sveikatos apsaugos ministerija 
+ŠKL Širdies ir kraujagyslių ligos
+proceso pradžia 
+proceso pabaiga 
+proceso vykdymo alternatyvos (keliamas klausimas) 
+vykdomas veiksmas 
+2. Bendrosios nuostatos 
+2.1. Už procedūros vykdymo kontrolę atsakingas I lygio paslaugų ir prevencių programų vadovas. 
+2.2. Už procedūros įgyvendinimą atsakingi: 
+2.2.1. Šeimos gydytojas; 
+2.2.2. Bendrosios praktikos slaugytojas; 
+2.2.3. Klinikos administratorius. 
+2.2.4. Kitų asmenų atsakomybė aprašoma procedūroje. 
+2.3. Klinikose prevencinių programų įgyvendinimą reguliariai seka paskirtas bendrosios praktikos 
+slaugytojas. 
+2.4. Esant nepakankamam prevencinių programų intensyvumo rodikliui, atliekamas programų 
+įgyvendinimo vidaus medicininis auditas, siekiant išsiaiškinti mažo pacientų aktyvumo 
+priežastis ir numatyti priemones rezultatams pagerinti. 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 4
+3. Detalizuota procedūros eiga 
+3.1. Gimdos kaklelio piktybinių navikų prevencinės programos priemonės ir jų įgyvendinimo 
+tvarka 
+3.1.1. Gimdos kaklelio piktybinių navikų prevencinės programos vykdymo algoritmas. 
+3.1.1.1. informavimo dėl gimdos kaklelio piktybinių navikų profilaktikos paslauga 
+3.1.1.1.1. informavimo dėl gimdos kaklelio piktybinių navikų profilaktikos paslaugų 
+teikimą aptarnaujamiems gyventojams organizuoja Klinika; 
+3.1.1.1.2. informavimo dėl gimdos kaklelio piktybinių navikų profilaktikos paslauga 
+apima patvirtintos formos informacinio pranešimo užpildymą ir įteikimą arba 
+išsiuntimą (1 priedas);
+3.1.1.1.3. informavimo dėl gimdos kaklelio piktybinių navikų profilaktikos paslauga 
+teikiama moterims imtinai nuo 25 iki 59 metų; 
+3.1.1.1.4. informavimo dėl gimdos kaklelio piktybinių navikų profilaktikos paslauga, 
+apmokama PSDF nustatyta tvarka; 
+3.1.1.1.5. 25–34 m. (imtinai) amžiaus pacientėms, iki joms bus suteikta gimdos 
+kaklelio citologinio tepinėlio paėmimo ir rezultatų įvertinimo paslauga. Suteikus 
+gimdos kaklelio citologinio tepinėlio paėmimo ir rezultatų įvertinimo paslaugą, 
+kitą kartą ši paslauga teikiama po 3 metų; 
+3.1.1.1.6. 35–59 m. (imtinai) amžiaus pacientėms, iki joms bus suteikta gimdos 
+kaklelio medžiagos paėmimo AR ŽPV tyrimui ir gimdos kaklelio citologinio 
+tepinėlio tyrimui atlikti (kai AR ŽPV rezultatas teigiamas) bei rezultatų įvertinimo 
+paslauga. Suteikus gimdos kaklelio medžiagos paėmimo AR ŽPV tyrimui ir 
+gimdos kaklelio citologinio tepinėlio tyrimui atlikti (kai AR ŽPV rezultatas 
+teigiamas) bei rezultatų įvertinimo paslaugas, kitą kartą šios paslaugos 
+teikiamos po 5 metų. 
+3.1.1.1.7. Klinika yra atsakinga už tinkamą informavimo dėl gimdos kaklelio 
+piktybinių navikų profilaktikos paslaugos suteikimo registravimą: 
+3.1.1.1.7.1. jeigu pacientei informacinis pranešimas įteikiamas, paslaugos 
+suteikimas registruojamas ambulatorinio apsilankymo aprašyme E025 ir 
+asmens ambulatorinio gydymo statistinėje kortelėje 025/a-LK; 
+3.1.1.1.7.2. jeigu informaciniai pranešimai pacientėms siunčiami paštu ar 
+elektroniniu paštu, sudaromas pacienčių, kurioms jie išsiųsti, elektroninis 
+excel tipo sąrašas. Sąraše nurodomas pacientės vardas ir pavardė, 
+adresas ar elektroninio pašto adresas, kuriuo išsiųstas informacinis 
+pranešimas, ir jo išsiuntimo data. Atspausdintas sąrašas patvirtinamas 
+Klinikos įgalioto asmens parašu kiekvieno mėnesio paskutinę darbo dieną. 
+Informacinio pranešimo išsiuntimo data registruojama pacientės 
+ambulatorinio apsilankymo aprašyme E025; 
+3.1.2. Informacija apie pacientei suteiktą informavimo dėl gimdos kaklelio piktybinių navikų 
+profilaktikos paslaugą yra registruojama asmens ambulatorinio gydymo asmens 
+ambulatorinio gydymo statistinėje kortelėje 025/a-LK. 
+Pastaba. Informavimo dėl gimdos kaklelio piktybinių navikų profilaktikos paslaugą moterims imtinai nuo 
+25 iki 59 metų teikia bendrosios praktikos slaugytojas ar akušeris, šeimos gydytojas ne dažniau kaip 
+vieną kartą per metus. 
+3.1.3. Gimdos kaklelio medžiagos paėmimo AR ŽPV tyrimui ir gimdos kaklelio citologinio 
+tepinėlio tyrimui atlikti (kai AR ŽPV rezultatas teigiamas) bei rezultatų įvertinimo paslauga 
+apima: 
+3.1.3.1.1. gimdos kaklelio medžiagos AR ŽPV tyrimui ir gimdos kaklelio citologinio 
+tepinėlio tyrimui atlikti (kai AR ŽPV rezultatas teigiamas) paėmimą, naudojant 
+citologinį skystųjų terpių surinkimo instrumentų rinkinį; 
+3.1.3.1.2. gimdos kaklelio medžiagos, skirtos AR ŽPV nustatyti, pristatymą į 
+įstaigą, turinčią licenciją atlikti molekulinius tyrimus (siuntime turi būti nurodoma 
+„Programa“); 
+3.1.3.1.3. pacientės informavimą apie AR ŽPV testo atlikimo paslaugas ir, jei AR 
+ŽPV rezultatas buvo teigiamas, gimdos kaklelio citologinio tepinėlio skystojoje 
+terpėje ištyrimo (kai AR ŽPV rezultatas teigiamas) paslaugos rezultatus ir 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 5
+supažindinimą su tolesne profilaktika arba siuntimą gydytojo akušerio 
+konsultacijos; 
+3.1.4. Gimdos kaklelio medžiagos paėmimo AR ŽPV tyrimui ir gimdos kaklelio citologinio 
+tepinėlio tyrimui atlikti (kai AR ŽPV rezultatas teigiamas) bei rezultatų įvertinimo 
+paslaugą 35–59 m. (imtinai) pacientėms teikia šeimos gydytojas arba šeimos medicinos 
+paslaugas teikiančios komandos narys (gydytojas akušeris ginekologas ar akušeris) ne 
+dažniau kaip vieną kartą per 5 metus. 
+3.1.5. Pacientei, kurios AR ŽPV tyrimas buvo: 
+3.1.5.1.1. neinformatyvus (netinkamas vertinti) tyrimas kartojamas. Pakartotinis 
+tyrimas atliekamas ne anksčiau kaip praėjus 3 mėnesiams po gimdos kaklelio 
+medžiagos paėmimo AR ŽPV tyrimui ir gimdos kaklelio citologinio tepinėlio 
+tyrimui atlikti (kai AR ŽPV rezultatas teigiamas) bei rezultatų įvertinimo 
+paslaugos suteikimo. Pagal Programą vienas pakartotinis tyrimas apmokamas 
+IV skyriuje nustatyta tvarka. Jeigu pakartotinis tyrimas buvo neinformatyvus 
+(netinkamas vertinti), pacientė siunčiama pas gydytoją akušerį ginekologą dėl 
+konsultacijos. Jeigu pakartotiniu tyrimu nustatytas AR ŽPV, atliekami 4.1.5.1.3. 
+papunktyje nurodyti veiksmai; 
+3.1.5.1.2. neigiamas, siunčiamas kvietimas dalyvauti Programoje po 5 metų; 
+3.1.5.1.3. teigiamas, iš to paties mėginio atliekamas gimdos kaklelio citologinio 
+tepinėlio ištyrimas (suteikiama 7.6 papunktyje nurodyta paslauga). Galutinis 
+integruotas AR ŽPV tyrimo ir gimdos kaklelio citologinio tepinėlio tyrimo 
+atsakymas perduodamas siunčiančiajai įstaigai. 
+3.1.6. Gimdos kaklelio citologinio tepinėlio paėmimo ir rezultatų įvertinimo paslaugą 25–34 m. 
+(imtinai) pacientėms teikia šeimos gydytojas arba šeimos medicinos paslaugas teikiančios 
+komandos narys (gydytojas akušeris ginekologas ar akušeris) ne dažniau kaip vieną kartą 
+per 3 metus. 
+3.1.7. Pacientės, kurios gimdos kaklelio citologinio tepinėlio tyrimas ar gimdos kaklelio 
+citologinio tepinėlio skystojoje terpėje tyrimas (kai AR ŽPV rezultatas teigiamas) buvo 
+neinformatyvus (netinkamas vertinti) arba ištyrus gimdos kaklelio citologinį tepinėlį ar 
+gimdos kaklelio citologinį tepinėlį skystojoje terpėje buvo nustatyta atipinių plokščiojo 
+epitelio nenustatytos reikšmės ląstelių (toliau – ASC-US), tyrimas kartojamas. Pakartotinis 
+tyrimas atliekamas ne anksčiau kaip praėjus 3 mėnesiams po gimdos kaklelio citologinio 
+tepinėlio paėmimo ir rezultatų įvertinimo paslaugos (25–34 m. (imtinai) pacientėms) arba 
+gimdos kaklelio medžiagos paėmimo AR ŽPV tyrimui ir gimdos kaklelio citologinio tepinėlio 
+tyrimui atlikti (kai AR ŽPV rezultatas teigiamas) bei rezultatų įvertinimo paslaugos (35–59 
+m. (imtinai) pacientėms) suteikimo. Jeigu pakartotinis gimdos kaklelio citologinio tepinėlio 
+tyrimas buvo neinformatyvus (netinkamas vertinti) arba ištyrus gimdos kaklelio citologinį 
+tepinėlį nustatyta ASC-US, pacientė siunčiama pas gydytoją akušerį ginekologą dėl 
+konsultacijos. 
+3.1.8. Gimdos kaklelio citologinio tepinėlio tyrimo metu nustačius kitų pakitimų (išskyrus ASCUS), pacientė siunčiama gydytojo akušerio ginekologo konsultacijos. 
+3.1.9. Gydytojo akušerio ginekologo konsultaciją, kai atliekama kolposkopija, gydytojo akušerio 
+ginekologo konsultaciją, kai atliekama kolposkopija, ir gimdos kaklelio biopsijos bei jos 
+rezultatų įvertinimo paslaugą teikia gydytojas akušeris ginekologas 25–59 m. 
+(imtinai) pacientėms ne dažniau kaip vieną kartą per metus. 
+3.1.10. Gydytojo akušerio ginekologo konsultacijos, kai atliekama kolposkopija, paslauga 
+apima: 
+3.1.10.1.1. gimdos kaklelio ir makšties gleivinės apžiūrą kolposkopu (apžiūros metu 
+naudojamas 3–5 % acto rūgšties tirpalas, jei reikia papildomai naudojamas 
+Liugolio tirpalas – patologiniams pakitimams gleivinėje išryškinti); 
+3.1.10.1.2. pacientės informavimą apie atliktos gimdos kaklelio ir makšties gleivinės 
+apžiūros rezultatus; 
+3.1.10.1.3. atsakymo apie kolposkopijos rezultatus siuntimą į PAASPĮ. 
+3.1.11. Gydytojo akušerio ginekologo konsultacija, kai atliekama kolposkopija, ir gimdos kaklelio 
+biopsijos bei jos rezultatų įvertinimo paslauga apima: 
+3.1.11.1.1. gimdos kaklelio biopsiją, kontroliuojamą kolposkopu; 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 6
+3.1.11.1.2. biopsijos medžiagos pateikimą įstaigai, atliekančiai patologijos tyrimus 
+(siuntime, teikiamame kartu su biopsijos medžiaga, turi būti nurodoma 
+„Programa“); 
+3.1.11.1.3. pacientės informavimą apie biopsijos medžiagos ištyrimo rezultatus ir 
+supažindinimą su tolesne profilaktika arba siuntimą gydyti bei informacijos apie 
+biopsijos rezultatus ir rekomendacijas siuntimą į PAASPĮ. 
+3.2. Priešinės liaukos vėžio ankstyvosios diagnostikos programos priemonės ir jų 
+įgyvendinimo tvarka 
+3.2.1. Priešinės liaukos vėžio ankstyvosios diagnostikos programos vykdymo algoritmas: 
+3.2.1.1. informavimo apie ankstyvąją priešinės liaukos vėžio diagnostiką ir prostatos 
+specifinio antigeno (toliau – PSA) nustatymo paslauga. 
+3.2.1.2. Informavimo apie priešinės liaukos vėžio ankstyvąją diagnostiką ir PSA 
+nustatymo paslaugų teikimą organizuoja Klinika; 
+3.2.1.3. informavimo apie priešinės liaukos vėžio ankstyvąją diagnostiką ir PSA 
+nustatymo paslauga apima: 
+3.2.1.3.1. patvirtintos formos informacinio pranešimo įteikimą pasirašytinai (2 
+priedas); 
+3.2.1.3.2. pokalbį su pacientu apie priešinės liaukos vėžio ankstyvosios 
+diagnostikos priemones, PSA tyrimo reikšmę ir tolesnius veiksmus, jei 
+nustatomas PSA kiekio padidėjimas; 
+3.2.1.3.3. PSA kiekio kraujo serume nustatymą; 
+3.2.1.3.4. PSA tyrimo rezultato įvertinimą; 
+3.2.1.3.5. paciento siuntimą konsultuotis pas urologą (atlikti priešinės liaukos 
+biopsiją), jeigu PSA kiekis viršija 3 ng/ml. 
+3.2.2. Informavimo apie priešinės liaukos vėžio ankstyvąją diagnostiką ir PSA nustatymo 
+paslauga teikiama 50–69 metų (imtinai) vyrams ir vyrams nuo 45 metų, jei jų tėvai ar 
+broliai sirgo priešinės liaukos vėžiu.
+3.2.3. Už informavimo apie priešinės liaukos vėžio ankstyvąją diagnostiką ir PSA nustatymo 
+paslaugą mokama PSDF nustatyta tvarka. Paslauga teikiama ne dažniau kaip vieną kartą 
+per dvejus metus, išskyrus atvejus, kai: 
+3.2.3.1.1. vyrų iki 59 metų (imtinai) PSA kiekis ≤ 1 ng/ml ‒ paslauga teikiama ne 
+dažniau kaip vieną kartą per penkerius metus; 
+3.2.3.1.2. vyrų nuo 60 metų PSA kiekis ≤ 2 ng/ml ‒ paslauga teikiama ne dažniau 
+kaip vieną kartą per penkerius metus. 
+3.2.4. PSA tyrimo rezultatus įvertinęs šeimos gydytojas informuoja pacientą. Suteikta 
+informavimo apie priešinės liaukos vėžio ankstyvąją diagnostiką ir PSA nustatymo 
+paslauga registruojama ambulatorinio apsilankymo aprašyme E025 ir asmens 
+ambulatorinio gydymo statistinėje kortelėje 025/a-LK; 
+3.2.5. šeimos gydytojas stebi pacientus (kartodamas PSA tyrimą), kurie po specialisto 
+konsultacijos toliau tiriami diagnozei patikslinti ir (ar) turi būti stebimi po gydymo. Jei 
+paciento tyrimo atsakymai patologiniai– šeimos gydytojas įvertina paciento sveikatos būklę 
+ir sudaro paciento gydymo ir stebėsenos planą. 
+3.3. Širdies ir kraujagyslių ligų didelės rizikos grupei priskirtinų asmenų atrankos ir 
+prevencijos programos įgyvendinimo tvarka 
+3.3.1. Pirminės širdies ir kraujagyslių ligų tikimybės įvertinimo ir prevencijos paslaugos 
+(toliau – pirminė ŠKL prevencijos paslauga) teikimo algoritmas: 
+3.3.1.1. Pirminę ŠKL prevencijos paslaugą sudaro:
+3.3.1.1.1. Pacientų 40 - 60 m. amžiaus (imtinai) pakvietimas dalyvauti Programoje; 
+3.3.1.1.2. tyrimų, paskyrimas pacientui ir jų atlikimas; 
+3.3.1.1.3. šeimos gydytojo konsultavimas, širdies ir kraujagyslių ligų prevencinių 
+priemonių plano pacientui sudarymas ir prireikus – medikamentinio gydymo 
+skyrimas; 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 7
+3.3.1.1.4. pacientui nustatytų siektinų sveikatos būklės rodiklių ir paskirto gydymo 
+efekto stebėsena ir įvertinimas. 
+3.3.1.2. Paskirtas darbuotojas ne rečiau kaip 2 kartus per metus sudaro (atnaujina) 40–
+60 m. amžiaus (imtinai) pacientų, kuriems bus siunčiami kvietimai (3 priedas)
+dalyvauti Programoje, sąrašą. Į šį sąrašą neįtraukiami pacientai: 
+3.3.1.2.1. persirgę miokardo infarktu; 
+3.3.1.2.2. kuriems diagnozuota aterosklerozinė širdies liga (TLK-10-AM kodas 
+I25.1), kompiuterinės tomografijos ir (arba) vainikinių arterijų angiografijos 
+tyrimais vainikinėse arterijose ar ultragarsinio ir (arba) galvos arterijų 
+angiografijos tyrimais miego arterijose nustačius pakitimus su stenozėmis, kai 
+≥50 proc. kraujagyslės spindžio ir (arba) vainikinių arterijų kalcio Agatston 
+indeksas didesnis nei 100, arba periferinių kraujagyslių aterosklerozinė liga 
+(TLK-10-AM kodai I70-I73), patvirtinta kraujagyslių spindžio vaizdo tyrimais; 
+3.3.1.2.3. kuriems diagnozuota liga, nurodyta Ilgalaikio pacientų, sergančių 
+lėtinėmis ligomis, sveikatos būklės stebėjimo tvarkos aprašo, patvirtinto 2014 m. 
+vasario 28 d. įsakymu Nr. V-288 „Dėl Ilgalaikio pacientų, sergančių lėtinėmis 
+ligomis, sveikatos būklės stebėjimo tvarkos aprašo patvirtinimo“, 8 priede 
+nustatytu paciento stebėsenos laikotarpiu; 
+3.3.1.2.4. kuriems diagnozuotas širdies nepakankamumas (TLK-10-AM kodas I50) 
+ir teikiamos asmens sveikatos priežiūros paslaugos; 
+3.3.1.2.5. kurie kvietimo dalyvauti Programoje sąrašo sudarymo metu pusės metų 
+laikotarpiu buvo gydomi dėl lėtinės inkstų ligos (TLK-10-AM kodai N18.4 ir 
+N18.5) 4–5 stadijos arba kuriems taikoma dializė (TLK-10-AM kodai Z49.1 ir 
+Z49.2); 
+3.3.1.2.6. kurie kvietimo dalyvauti Programoje sąrašo sudarymo metu pusės metų 
+laikotarpiu buvo gydomi dėl piktybinių navikų (TLK-10-AM kodai C00–C96) arba 
+jei dėl šių piktybinių navikų jiems taikomas simptominis paliatyvusis gydymas, 
+išskyrus atvejus, kai taikomas adjunvantinis gydymas; 
+3.3.1.2.7. kurie kvietimo dalyvauti Programoje sąrašo sudarymo metu gydomi dėl 
+infekcinių ligų (TLK 10 AM kodai A00–A99, B00–B99), išskyrus tuos, kuriems 
+taikomas ilgalaikis specializuotas (ilgiau kaip 1 mėn.) gydymas. 
+3.3.1.3. Apie išsiųstą kvietimą dalyvauti Programoje pažymima paciento elektroniniame 
+dokumente E025 „Ambulatorinio apsilankymo aprašymas“, nurodant kvietimo 
+išsiuntimo datą ir išsiuntimo būdą. 
+3.3.1.4. Pagal Programą pacientui atliktų tyrimų duomenys suvedami į ESPBI IS. 
+Programoje dalyvaujančiam pacientui PAASPĮ atliekami šie tyrimai: 
+3.3.1.4.1. gliukozės koncentracijos veninio kraujo plazmoje nustatymas 
+(sergantiems cukriniu diabetu pacientams – glikozilinto hemoglobino tyrimas, jei 
+šis tyrimas atliktas daugiau kaip prieš 3 mėn.); 
+3.3.1.4.2. lipidograma (bendrojo cholesterolio koncentracijos kraujo serume, didelio 
+tankio lipoproteinų cholesterolio koncentracijos kraujo serume, nedidelio tankio 
+lipoproteinų cholesterolio koncentracijos kraujo serume, mažo tankio 
+lipoproteinų cholesterolio koncentracijos kraujo serume ir trigliceridų 
+koncentracijos kraujo serume nustatymas); 
+3.3.1.4.3. elektrokardiograma (12 derivacijų); 
+3.3.1.4.4. kreatinino koncentracijos veninio kraujo serume nustatymas 
+(apskaičiuojant aGFG), o pacientams, sergantiems cukriniu diabetu, – ir 
+albumino ir kreatinino santykio vienkartiniame rytiniame šlapime nustatymas. 
+3.3.1.5. Pacientui atlikus 4.3.1.5. punkte nurodytus tyrimus, jis registruojamas į šeimos 
+gydytojo konsultaciją, kurios metu šeimos gydytojas: 
+3.3.1.5.1. įvertina atliktų tyrimų rezultatus; 
+3.3.1.5.2. nustato metabolinio sindromo diagnozę pagal metabolinio sindromo 
+kriterijus (4 priedas); 
+3.3.1.5.3. įvertina šeiminės dislipidemijos tikimybę pagal modifikuotus šeiminės 
+dislipidemijos tikimybės diagnostikos kriterijus (5 priedas); 
+3.3.1.5.4. nustato bendrąją paciento širdies ir kraujagyslių ligų tikimybę pagal 
+Europos kardiologų draugijos patvirtintą širdies ir kraujagyslių ligų tikimybės 
+skaičiavimo sistemą SCORE 2 (Programos 6 priedas) (šis papunktis 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 8
+netaikomas pacientams, sergantiems 1 ir 2 tipo cukriniu diabetu, lėtine inkstu 
+liga, šeimine dislipidemija); 
+3.3.1.5.5. nustato paciento širdies ir kraujagyslių ligų rizikos grupę pagal širdies ir 
+kraujagyslių ligų rizikos grupės nustatymo lentelę (Programos 7 priedas); 
+3.3.1.5.6. nuo 2024 m. sausio 1 d. užpildo Elektroninės sveikatos paslaugų ir 
+bendradarbiavimo infrastruktūros informacinėje sistemoje skaitmenizuotą 
+Asmens širdies ir kraujagyslių ligų rizikos nustatymo anketą (Programos 8 
+priedas); 
+3.3.1.6. Pacientas, kuriam nustatoma maža ir vidutinė širdies ir kraujagyslių ligų rizika, 
+kviečiamas dalyvauti Programoje po ketverių metų. 
+3.3.1.7. Pacientui, kuriam nustatyta didelė ir labai didelė širdies ir kraujagyslių ligų rizika: 
+3.3.1.7.1. Sudaromas Asmens pirminės širdies ir kraujagyslių ligų, prevencijos 
+priemonių planas (Programos 9 priede), kuriame nustatomi siektini paciento 
+kūno masės indekso, arterinio kraujospūdžio ir mažo tankio lipoproteinų 
+cholesterolio koncentracijos kraujo serume rodikliai, jų kontrolės būdai ir 
+terminai, gyvenimo būdo keitimo rekomendacijos. 
+3.3.1.7.2. Organizuojama sveikos gyvensenos medicinos specialisto arba kito 
+šeimos gydytojo komandos nario konsultacija, kurios metu: 
+3.3.1.7.2.1. sudaroma intensyvaus paciento gyvensenos keitimo schema; 
+3.3.1.7.2.2. suteikiama informacija apie sveiką mitybą ir fizinį aktyvumą; 
+3.3.1.7.2.3. rūkančiam pacientui įvertinama tabako vartojimo (rūkymo) rizika 
+naudojant Fagerstromo nikotino priklausomybės testą ir pacientas 
+informuojamas apie pagalbą metant rūkyti; 
+3.3.1.7.2.4. įvertinami paciento alkoholio vartojimo įpročiai Alkoholio vartojimo 
+įpročių vertinimo ir trumposios intervencijos alkoholį vartojantiems 
+asmenims teikimo tvarkos aprašo nustatyta tvarka; 
+3.3.1.7.2.5. įteikiamas kvietimas dalyvauti savivaldybės visuomenės sveikatos 
+biuro organizuojamoje sveikatos stiprinimo Programoje, skirtoje širdies ir 
+kraujagyslių ligų bei cukrinio diabeto profilaktikai; 
+3.3.1.8. Šeimos gydytojas arba šeimos gydytojo komandos narys po 6 mėn. kviečia 
+pacientą nustatytiems siektiniems sveikatos būklės rodikliams ir paskirto gydymo 
+efektui vertinti ir prireikus koreguoti. 
+3.3.1.9. Pacientas, kuriam nustatyta didelė širdies ir kraujagyslių ligų rizika, kviečiamas 
+dalyvauti Programoje po dvejų metų. 
+3.3.1.10. Pacientui, kuriam nustatyta labai didelė širdies ir kraujagyslių ligų rizika, šeimos 
+gydytojas ESPBI IS išrašo siuntimą gydytojo kardiologo išsamiai širdies ir 
+kraujagyslių ligų tikimybės įvertinimo paslaugai (toliau – išsami ŠKL prevencijos 
+paslauga), nurodydamas atliktų tyrimų duomenis. 
+3.3.1.11. Pacientas, kuriam nustatyta labai didelė širdies ir kraujagyslių ligų rizika, 
+kviečiamas dalyvauti Programoje po vienų metų, o išsamios ŠKL prevencijos 
+paslaugos gauti siunčiamas ne anksčiau kaip po ketverių metų. 
+3.3.1.12. Jei pacientui diagnozuotos ligos ir būklės, nurodytos 4.3.1.3.1. – 4.3.1.3.7. 
+papunkčiuose, jis dalyvauti Programoje nekviečiamas, o pasikeitus sveikatos būklei, 
+pacientas kviečiamas dalyvauti Programoje jam nustatytą širdies ir kraujagyslių ligų 
+riziką atitinkančiu periodiškumu. 
+3.3.1.13. PAASPĮ suteikta pirminė ŠKL prevencinė paslauga registruojama paciento 
+elektroniniame dokumente E025. 
+3.3.1.14. PAASPĮ darbuotojas, kuris paskirtas už Programos organizavimo tvarką, yra 
+atsakingas už Programos 4.3.1.3. punkte nurodytų pacientų pakvietimą dalyvauti 
+Programoje, pirminės ŠKL prevencinės paslaugos teikimo organizavimą ir paslaugos 
+teikimo kokybės rodiklių stebėseną bei vertinimą ir ne rečiau kaip 1 kartą per metus 
+ataskaitos apie PAASPĮ pasiektas rodiklių reikšmes pateikimą PAASPĮ vadovui. 
+3.3.2. Išsamios širdies ir kraujagyslių ligų tikimybės įvertinimo ir prevencijos paslaugos 
+teikimo algoritmas: 
+3.3.2.1. Išsamios ŠKL prevencijos paslauga suteikiama ne vėliau kaip per 3 mėn. nuo 
+labai didelės širdies ir kraujagyslių ligų rizikos nustatymo.
+3.3.2.2. Išsamią ŠKL prevencijos paslaugą pacientui teikia gydytojas kardiologas ir 
+slaugytojas. 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 9
+3.3.2.3. Išsamią ŠKL prevencijos paslaugą pacientui teikia gydytojas kardiologas ir 
+slaugytojas. 
+3.3.2.4. Išsamią ŠKL prevencijos paslaugą teikianti ASPĮ: 
+3.3.2.4.1. teikia laboratorinės diagnostikos paslaugas tuo pačiu veiklos adresu arba 
+pagal sutartį su kita ASPĮ atlieka šiuos tyrimus, atsakymus pateikdama ESPBI 
+IS ne vėliau kaip kitą dieną po tyrimo atlikimo: 
+3.3.2.4.1.1. lipidogramą; 
+3.3.2.4.1.2. kalio (K+); 
+3.3.2.4.1.3. alanino aminotransferazės (ALT); 
+3.3.2.4.1.4. aspartato aminotransferazės (AST); 
+3.3.2.4.1.5. apolipoproteino B (Apo B) ir lipoproteino (a) (Lp(a) (pirmą kartą 
+suteikiant išsamią ŠKL prevencijos paslaugą pacientams, sergantiems CD, 
+metaboliniu sindromu arba esant mažai MTL-C koncentracijai); 
+3.3.2.4.2. didelio jautrumo C reaktyviojo baltymo (CRB); 
+3.3.2.4.3. atlieka šiuos tyrimus ir procedūras: 
+3.3.2.4.3.1. elektrokardiogramą; 
+3.3.2.4.3.2. širdies ultragarsinį tyrimą; 
+3.3.2.4.3.3. arterijų standumo tyrimą; 
+3.3.2.4.3.4. kaklo ir (ar) periferinių arterijų ultragarsinį tyrimą aterosklerozės 
+plokštelėms bendrosiose miego arterijose įvertinti; 
+3.3.2.4.3.5. vainikinių arterijų kalcio indekso nustatymą (pacientams, kuriems 
+įvertinus širdies ir kraujagyslių ligų (ŠKL) riziką nėra aišku dėl 
+medikamentinio gydymo poreikio, taip pat labai didelės ŠKL rizikos 
+pacientams, netoleruojantiems statinų); 
+3.3.2.4.3.6. kulkšnies žasto indekso nustatymą (segantiems diabetu ir 
+rūkantiems pacientams). 
+3.3.2.5. Išsamios ŠKL prevencijos paslaugą teikiantis gydytojas kardiologas: 
+3.3.2.5.1. įvertina pacientui pagal paciento sveikatos būklę paskirtų ir atliktų 4.3.2.4. 
+punkte nurodytų tyrimų rezultatus ir, esant reikalui, patikslina sprendimą dėl 
+paciento priskyrimo širdies ir kraujagyslių ligų rizikos grupei; 
+3.3.2.5.2. paskiria gydymą (pagal poreikį); 
+3.3.2.5.3. teikia rekomendacijas šeimos gydytojui dėl paciento pirminės prevencijos 
+priemonių plano turinio. 
+3.3.2.6. Išsamią ŠKL prevencijos paslaugą teikiančioje ASPĮ suteikta išsami ŠKL 
+prevencijos paslauga registruojama paciento elektroniniame dokumente E025. 
+3.3.2.7. Išsamią ŠKL prevencijos paslaugą teikiančios ASPĮ vadovas patvirtina 
+paslaugos organizavimo ASPĮ tvarką ir paskiria darbuotoją, atsakingą už išsamios 
+ŠKL prevencijos paslaugos teikimo kokybės rodiklių stebėseną, vertinimą ir 
+ataskaitos apie įstaigoje pasiektas rodiklių reikšmes pateikimą įstaigos vadovui. 
+3.4. Storosios žarnos vėžio ankstyvosios diagnostikos programos priemonės ir jų 
+įgyvendinimo tvarka 
+3.4.1. Storosios žarnos vėžio ankstyvosios diagnostikos programos vykdymo algoritmas: 
+3.4.1.1. Informavimas apie storosios žarnos vėžio ankstyvąją diagnostiką ir 
+imunocheminio slapto kraujavimo testo išmatose (toliau – iFOBT) rezultatų 
+įvertinimas 
+3.4.1.1.1. Informavimo apie storosios žarnos vėžio ankstyvąją diagnostiką ir iFOBT 
+rezultatų įvertinimo paslaugą bei paciento siuntimo pas gydytoją specialistą 
+atlikti kolonoskopiją paslaugą teikia Klinika; 
+3.4.1.1.2. Informavimo apie storosios žarnos vėžio ankstyvąją diagnostiką ir iFOBT 
+rezultatų įvertinimo paslauga teikiama į Kliniką atvykusiems 50–74 metų 
+asmenims. Atvykti į Kliniką asmenys gali būti kviečiami laišku, telefonu, 
+elektroniniu paštu ir kitais priimtinais būdais. 
+3.4.1.1.3. Informavimo apie storosios žarnos vėžio ankstyvąją diagnostiką ir iFOBT 
+rezultatų įvertinimo paslaugą sudaro: 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 10
+3.4.1.1.3.1. patvirtintos formos informacinio pranešimo įteikimas pasirašytinai 
+(10 priedas);
+3.4.1.1.3.2. pokalbis su pacientu apie storosios žarnos vėžio ankstyvosios 
+diagnostikos priemones, iFOBT reikšmę ir tolesnius veiksmus, jei 
+nustatomas slaptas kraujavimas; 
+3.4.1.1.3.3. paciento supažindinimas su iFOBT testo atlikimu; 
+3.4.1.1.3.4. iFOBT rezultato įvertinimas. 
+3.4.1.1.4. Informavimo apie storosios žarnos vėžio ankstyvąją diagnostiką ir iFOBT 
+rezultatų įvertinimo paslauga apmokama PSDF nustatyta tvarka ir teikiama ne 
+dažniau kaip vieną kartą per dvejus metus. Suteikus šią paslaugą, jei iFOBT 
+(–) neigiamas, kitas iFOBT atliekamas po dvejų metų. 
+3.4.1.2. Esant teigiamam (+) iFOBT rezultatui paciento siuntimas pas gydytoją specialistą 
+atlikti kolonoskopiją. 
+3.4.1.3. Siuntimą išduoda šeimos medicinos paslaugas teikiantis gydytojas (šeimos 
+gydytojas arba vidaus ligų gydytojas), užpildydamas elektroninio siuntimo formą Nr. 
+E027. 
+3.4.1.4. Paciento siuntimo pas gydytoją specialistą atlikti kolonoskopiją paslaugą sudaro: 
+3.4.1.4.1. paciento informavimas apie žarnyno paruošimą prieš kolonoskopijos 
+tyrimą; 
+3.4.1.4.2. žarnyno paruošimui prieš kolonoskopijos tyrimą reikiamo 
+medikamento (Mineral salts in combination) išdavimas pacientui; 
+3.4.1.4.3. paciento informavimas apie galimybę atlikti kolonoskopiją, taikant 
+intraveninę nejautrą; 
+3.4.1.4.4. paciento siuntimas pas gydytoją specialistą atlikti kolonoskopiją su įrašu 
+„Programa“ ir išankstinis registravimas, atsižvelgiant į paciento nuomonę dėl 
+intraveninės nejautros taikymo; 
+3.4.1.4.5. kolonoskopijos rezultato įvertinimas; 
+3.4.1.4.6. paciento informavimas apie biopsijos rezultatus ir siuntimas gydyti, esant 
+patologijai. 
+3.4.1.5. Suteiktos informavimo apie storosios žarnos vėžio ankstyvąją diagnostiką ir 
+iFOBT atlikimo ir jo rezultatų įvertinimo bei paciento siuntimo pas gydytoją specialistą 
+atlikti kolonoskopiją paslaugos registruojamos ambulatorinio apsilankymo aprašyme 
+E025 ir asmens ambulatorinio gydymo statistinėje kortelėje 025/a-LK. 
+3.4.1.6. šeimos gydytojas stebi pacientus, kurie po specialisto konsultacijos toliau tiriami 
+diagnozei patikslinti ir (ar) turi būti stebimos po gydymo. Jei paciento tyrimo 
+atsakymai patologiniai– šeimos gydytojas įvertina pacientės sveikatos būklę ir sudaro 
+paciento gydymo ir stebėsenos planą. 
+3.4.1.7. Pacientui, gavusiam siuntimą pas gydytoją specialistą atlikti kolonoskopiją, 
+teikiama viena iš šių paslaugų: 
+3.4.1.7.1. gydytojo specialisto konsultacija su kolonoskopija ir, jei reikia, biopsijos 
+medžiagos paėmimu; 
+3.4.1.7.2. gydytojo specialisto konsultacija su kolonoskopija ir, jei reikia, biopsijos 
+medžiagos paėmimu; 
+3.4.1.8. Gydytojo specialisto konsultacijos su kolonoskopija ir, jei reikia, biopsijos 
+medžiagos paėmimu, paslaugą sudaro: 
+3.4.1.8.1. endoskopinis tyrimas – kolonoskopija ir, jei reikia, biopsijos medžiagos 
+paėmimas (rekomenduojama ne mažiau kaip 5 audinių gabalėlių), tyrimo 
+aprašymas ir išvada; 
+3.4.1.8.2. biopsijos medžiagos (rekomenduojama ne mažiau kaip 5 audinių 
+gabalėlių) siuntimas tirti patologijos centrui ar tarnybai, papildomai nurodant 
+PASPĮ ir jos adresą; 
+3.4.1.8.3. paciento supažindinimas su kolonoskopijos rezultatais; 
+3.4.1.8.4. atsakymo apie kolonoskopijos rezultatus siuntimas į PASPĮ. 
+3.4.1.9. Gydytojo specialisto konsultacijos su kolonoskopija ir, jei reikia, biopsijos 
+medžiagos paėmimu, paslauga registruojama asmens sveikatos istorijoje 025/a ir 
+asmens ambulatorinio gydymo apskaitos kortelėje 025/a-LK. 
+3.4.1.10. Gydytojo specialisto konsultacijos su kolonoskopija ir, jei reikia, biopsijos 
+medžiagos paėmimu, taikant intraveninę nejautrą, paslaugą sudaro: 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 11
+3.4.1.10.1. gydytojo anesteziologo reanimatologo atliekama paciento apžiūra bei 
+bendrinė intraveninė nejautra; 
+3.4.1.10.2. endoskopinis tyrimas – kolonoskopija ir, jei reikia, biopsijos medžiagos 
+paėmimas (rekomenduojama ne mažiau kaip 5 audinių gabalėlių), tyrimo 
+aprašymas ir išvada; 
+3.4.1.10.3. biopsijos medžiagos (rekomenduojama ne mažiau kaip 5 audinių 
+gabalėlių) siuntimas tirti patologijos centrui ar tarnybai, papildomai nurodant 
+PASPĮ ir jos adresą; 
+3.4.1.10.4. paciento supažindinimas su kolonoskopijos rezultatais; 
+3.4.1.10.5. atsakymo apie kolonoskopijos rezultatus siuntimas į PASPĮ. 
+3.4.1.11. Gydytojo specialisto konsultacijos su kolonoskopija ir, jei reikia, biopsijos 
+medžiagos paėmimu, taikant intraveninę nejautrą, paslauga registruojama asmens 
+sveikatos istorijoje 025/a ir asmens ambulatorinio gydymo apskaitos kortelėje forma 
+025/a-LK. 
+3.4.1.12. Jei kolonoskopijos metu nustatoma, kad storoji žarna normali, pacientas tiriamas 
+iš naujo ir iFOBT tyrimas atliekamas ne anksčiau nei po 10 metų.
+3.4.1.13. Jei kolonoskopijos metu pacientui nustatyta storosios žarnos patologija, pacientui 
+programos paslaugos pakartotinai nebeteikiamos. 
+3.5. Atrankinės mamografinės patikros dėl krūties vėžio programos priemonės ir jų 
+įgyvendinimo tvarka 
+3.5.1. Atrankinės mamografinės patikros dėl krūties vėžio programos vykdymo algoritmas: 
+3.5.1.1. Informavimo dėl krūties piktybinių navikų profilaktikos, siuntimo atlikti 
+mamografiją paslauga; 
+3.5.1.2. Informavimo dėl krūties piktybinių navikų profilaktikos ir siuntimo atlikti 
+mamografiją paslaugų teikimą aptarnaujamiems gyventojams organizuoja pirminės 
+ambulatorinės asmens sveikatos priežiūros įstaigos (toliau – PAASPĮ). 
+3.5.1.3. Informavimo apie krūties piktybinių navikų ankstyvąją diagnostiką paslauga 
+teikiama moterims nuo 50 m. iki 69 m. (imtinai). Paslaugą gali teikti slaugytojas, 
+bendruomenės slaugytojas arba šeimos gydytojas, arba pirminės asmens sveikatos 
+priežiūros komandos narys – vidaus ligų gydytojas.“ 
+3.5.1.4. Informavimo apie krūties piktybinių navikų ankstyvąją diagnostiką paslauga 
+apima šiuo įsakymu patvirtintos formos informacinio pranešimo užpildymą ir įteikimą 
+arba išsiuntimą (moteris gali būti kviečiama pasitikrinti pagal programą laišku, 
+telefonu, elektroniniu paštu ir kitais priimtinais būdais) (11 priedas).:
+3.5.1.5. Jeigu informacinis pranešimas moterims pateikiamas paštu, elektroniniu paštu ar 
+telefonu, sudaromas pacienčių, kurioms jie išsiųsti, elektroninis excel tipo sąrašas. 
+Sąraše nurodomas moters vardas ir pavardė, adresas ar elektroninio pašto adresas, 
+ar telefono numeris, kuriuo buvo pateiktas informacinis pranešimas, ir jo pateikimo 
+data. Sąrašas tvirtinamas PAASPĮ vadovo arba jo įgalioto asmens parašu ar 
+elektroniniu parašu. Informacinio pranešimo pateikimo data nurodoma ambulatorinio 
+apsilankymo aprašyme E025 ir asmens ambulatorinio gydymo statistinėje kortelėje 
+025/a-LK; 
+3.5.1.6. moters sutikimas pasitikrinti pagal programą nurodomas ambulatorinio 
+apsilankymo aprašyme E025 ir asmens ambulatorinio gydymo statistinėje kortelėje 
+025/a-LK 
+3.5.1.7. Siuntimo atlikti mamografijos tyrimą paslauga apima: 
+3.5.1.7.1. moterų siuntimą atlikti mamografinį tyrimą; 
+3.5.1.7.2. mamografijos rezultatų įvertinimą ir, jei mamografijos tyimu nustatoma 
+patologija, siuntimą konsultuotis pas specialistą – patikslinti diagnozės ir gydyti. 
+3.5.1.7.3. Informavimo ir siuntimo atlikti mamografijos tyrimą paslauga teikiama 
+moterims nuo 50 m. iki 69 m. (imtinai). Jei gaunamas moters sutikimas 
+pasitikrinti pagal programą, siuntimą atlikti mamografijos tyrimą jai išduoda 
+asmens sveikatos priežiūros įstaigos, teikiančios pirminės asmens sveikatos 
+priežiūros paslaugas, šeimos medicinos paslaugas teikiantis gydytojas (šeimos 
+gydytojas arba vidaus ligų gydytojas, arba gydytojas akušeris ginekologas), 
+užpildydamas elektroninio siuntimo formą Nr. E027 „Siuntimas konsultacijai, 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 12
+tyrimams, gydymui“. Kai išduodamas siuntimas, PAASPĮ apie tai informuoja 
+moterį ir nurodo, kuriose gydymo įstaigose (nurodomos bent 3 gydymo įstaigos) 
+teikiamos atitinkamos asmens sveikatos priežiūros paslaugos. 
+3.5.1.7.4. Informavimo apie krūties piktybinių navikų ankstyvąją diagnostiką 
+paslaugos s ir siuntimo atlikti mamografiją paslauga, apmokama [6.5] nustatyta 
+tvarka, teikiama ne dažniau kaip vieną kartą per dvejus metus, 
+3.5.1.7.5. Suteikta informavimo apie krūties piktybinių navikų ankstyvąją 
+diagnostiką paslauga ir siuntimo atlikti mamografijos tyrimą paslauga 
+registruojama registruojamos ESPBI IS užpildant ambulatorinio apsilankymo 
+aprašyme E025 ir asmens ambulatorinio gydymo statistinėje kortelėje 025/a-LK 
+„Asmens ambulatorinio gydymo statistinė kortelė“. 
+3.5.1.7.6. Šeimos gydytojas stebi pacientes, kurios po specialisto konsultacijos 
+toliau tiriamos diagnozei patikslinti ir (ar) turi būti stebimos po gydymo. šeimos 
+gydytojas stebi pacientes, kurios po specialisto konsultacijos toliau tiriamos 
+diagnozei patikslinti ir (ar) turi būti stebimos po gydymo. Jei pacientės tyrimo 
+atsakymai patologiniai– šeimos gydytojas įvertina pacientės sveikatos būklę ir 
+sudaro paciento gydymo ir stebėsenos planą. 
+3.5.1.8. Mamogramų atlikimo paslaugą teikia įstaigos, turinčios mamografijos aparatus. 
+3.5.1.9. Mamogramų vertinimo paslaugą teikia įstaigos, kuriose dirba atitinkamą darbo 
+patirtį turintys radiologai, arba tos įstaigos yra sudariusios su jais sutartis. 
+3.5.1.10. Mamogramų atlikimo paslauga apima: 
+3.5.1.10.1. keturių mamogramų įvertinimą dviejų radiologų nepriklausomai vienas 
+nuo kito; 
+3.5.1.10.2. mamogramų įvertinimo protokolų pildymą (12 priedas); 
+3.5.1.10.3. mamogramų įvertinimo protokolų siuntimą į PAASPĮ ir mamogramų arba 
+laikmenos su mamogramomis atidavimą pacientei. Laikmena su 
+mamogramomis DICOM standarto formatu gali būti atiduodama tik kartu su 
+DICOM standarto mamogramų peržiūros priemone. 
+3.5.1.11. Įstaigos, teikiančios mamogramų vertinimo paslaugas, pasilieka sau 
+mamogramų įvertinimo protokolų kopijas. 
+3.5.1.12. Jei mamografinio tyrimo rezultatas patologinis, pacientė ne vėliau kaip per 10 
+dienų nuo tyrimo rezultato gavimo siunčiama pas specialistą konsultacijos – 
+diagnozei patikslinti ir gydyti. 
+3.6. Vaikų krūminių dantų dengimo silantinėmis medžiagomis programos priemonės ir jų 
+įgyvendinimo tvarka 
+3.6.1. Vaikų krūminių dantų dengimo silantinėmis medžiagomis ir išlaidų kompensavimo iš 
+PSDF biudžeto tvarkos aprašu [6.6] nustatyta vaikų nuo pirmojo nuolatinio krūminio 
+danties išdygimo iki 14 metų nuolatinių krūminių dantų kramtomųjų paviršių dengimo 
+silantais tvarka. 
+3.6.2. Vaikų nuolatinių krūminių dantų kramtomųjų paviršių dengimą silantais atlieka 
+bendrosios praktikos odontologai arba burnos higienistai. 
+3.6.3. Padengtų silantais dantų kontrolė atliekama po 3 mėnesių, vėliau – kiekvieno 
+profilaktinio tikrinimo metu. 
+3.6.4. Jei silantas iškrenta, krūminių dantų dengimo silantinėmis medžiagomis procedūra 
+kartojama. 
+3.7. Lėtinių ligų prevencijos ir sveikos gyvensenos skatinimas 
+3.7.1. Įvertinus paciento sveikatos būklę, siekiant išvengti lėtinių ligų bei skatinant paciento 
+sveikos gyvensenos įgūdžius: 
+3.7.1.1. Bendrosios praktikos slaugytojas teikia pacientams informaciją sveikos 
+gyvensenos klausimais. 
+3.7.1.2. Suteikia informaciją apie visuomenės sveikatos biurų ir kitų visuomenės 
+sveikatos įstaigų teikiamas paslaugas: fizinio aktyvumo, sveikos mitybos, 
+priklausomybių prevencijos ir kitose veiklose. 
+3.7.1.3. Tuo tikslu naudojami įvairūs būdai pagal Klinikos galimybes: grupinis sveikatos 
+mokymas pacientų, sergančių tam tikromis lėtinėmis ligomis (kartu suteikiant rašytinę 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 13
+medžiagą), duodama informacinė medžiaga (skrajutės ir pan.) sveikos gyvensenos 
+klausimais ar nurodoma, kur ją galima rasti Internete, pacientai siunčiami dalyvauti 
+sveikatos stiprinimo programose, organizuojamose visuomenės sveikatos įstaigose ir 
+pan. 
+3.7.2. Apie pacientui suteiktas ligų prevencijos ir sveikos gyvensenos žinias bendrosios 
+praktikos slaugytojas pažymi IS formoje 25/a. 
+3.7.3. Esant poreikiui, slaugytojas ar kitas šeimos gydytojo komandos narys pacientui, 
+turinčiam specialiųjų ir sudėtingų poreikių, nurodo įstaigų, teikiančių papildomas (aklųjų, 
+kurčnebylių draugija ir pan.) kontaktinius duomenis ir prireikus nukreipia joms pacientus. 
+3.7.4. Įstaigos internetinėje svetainėje pateikiama aktuali, patikima, atnaujinama informacija 
+pacientams aktualiais sveikos gyvensenos klausimais bei įstaigų, teikiančių papildomas 
+paslaugas sąrašas. 
+4. Pacientų, kuriems gali būti atlikta prevencinė programa nustatymo IS tvarka: 
+4.1. FOXUS programoje:
+4.1.1. Bendras pacientų sąrašas, kuriems gali būti atlikta viena iš prevencinių programų, 
+filtruojamas atliekant žingsnius: 
+4.1.2. Pagrindiniame programos lange pasirenkamas laukelis „Pacientai“ 
+4.1.3. Pacientų paieškos lange pasirenkamas laukas „Prevencinės programos“, iš sąrašo 
+pasirenkama aktuali prevencinė programa, spaudžiamas laukelis „ieškoti“ arba esant 
+poreikiui pacientų sąrašas gali būti parsiųstas į kompiuterį, pasirinkus laukelį „Excel 
+formatu“. 
+4.1.4. Pacientų sąrašas, kuriems gali būti atlikta viena iš prevencinių programų, pagal gydytoją 
+gali būti filtruojamas atliekant žingsnius: 
+4.1.4.1. Pagrindiniame „Foxus“ programos lange pasirenkamas laukelis „Ataskaitos“; 
+4.1.4.2. Ataskaitų paieškos lange pasirenkamas laukas „Pacientų prevencinės 
+programos“. Iš sąrašo pasirenkama prevencinė programa, suvedama gydytojo 
+pavardė, spaudžiamas laukelis „Gauti ataskaitą“. Esant poreikiui pacientų sąrašas 
+gali būti parsiųstas į kompiuterį, paspaudus rodyklę prie „Gauti ataskaitą“ mygtuko ir 
+pasirinkus lauką „Excel formatu“. 
+4.2. POLIS programoje: 
+4.2.1. Bendras pacientų sąrašas, kuriems gali būti atlikta viena iš prevencinių programų, 
+filtruojamas atliekant žingsnius: 
+4.2.2. Pagrindiniame programos lange pasirenkamas laukelis „Darbas“ ir „Prevencinės 
+programos“ 
+4.2.3. Atidarytame lange „Profilaktika CRM“ pasirenkame profilaktikos programą, gydymo 
+įstaigą bei gydytoją ir spaudžiame „atrinkti“; 
+5. Prevencinių programų pildymo tvarka IS programoje 
+5.1. Atlikus bent vieną iš prevencinės programos dalių, paciento ambulatorinio apsilankymo 
+aprašyme E025 PRIVALO atsirasti įrašas/informacija apie prevencinės programos vykdymą. 
+5.1.1.1. Kiekvienam pacientui turi būti užvesta asmens ambulatorinio gydymo statistinė 
+kortelė 025/a-LK, nurodant tikslų prevencinės programos kodą. 
+6. Prevencinių programų atmetimas IS programoje FOXUS 
+6.1. Jeigu pacientas atsisako atlikti prevencinę programą ar prevencinė programa jau buvo atlikta, 
+arba dėl tam tikrų priežasčių artimiausiu metu prevencinė programa negali būti atlikta (dėl 
+operacijos, negaliojančio draudimo ar pan.), programa privalo būti atmesta atliekant žingsnius: 
+6.1.1. Paciento kortelėje pasirenkamas laukas „Prevencinės programos“ iš sąrašo 
+pasirenkama prevencinė programa. 
+6.1.2. Pasirinkus prevencinę programą, spaudžiamas laukelis „Veiksmas“ ir nurodoma, kuri 
+prevencinės programos dalis buvo atlikta. Pasirinkus veiksmą, spaudžiamas laukelis 
+„Atmesti“. 
+6.1.3. Paspaudus laukelį „Atmesti“ nurodoma viena iš atmetimo priežasčių: 
+6.1.3.1. „Prevencinė programa jau buvo atlikta“, nurodant galimą sekančią atlikimo datą. 
+6.1.3.2. „Niekada nebesiūlyti šios programos“ jeigu pacientui prevencinė programa 
+negalės būti atlikta (moteris operuota ar pan.) 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 14
+6.1.3.3. „Pacientas prevencinė programos nepageidauja“, jeigu pacientas nesutinka atlikti 
+ankstyvojo vėžio diagnostikos programos, įvedamas 1 metų programos atlikimo 
+atidėjimas. Pacientas atsisakydamas atlikti prevencinę programą turi tai pažymėti 
+pasirašytinai ant informacinio pranešimo, informacinis pranešimas su paciento 
+parašais turi būti įklijuotas ligos istorijoje. Šeimos gydytojas paciento atsisakymą 
+dokumentuoja ambulatorinio apsilankymo įraše. 
+6.1.3.4. Jeigu pacientas yra nedraustas, prevencinė programa taip pat turi būti atmesta 
+nurodant priežastį „Prevencinė programa jau buvo atlikta“ ir įvestas 6 mėn. 
+programos atlikimo atidėjimas. 
+7. Prevencinių programų vykdymo algoritmas ir atsakomybė 
+7.1. Už pacientų informavimo paslaugos atlikimą atsakingas klinikos administratorius, bendrosios 
+praktikos slaugytojas, šeimos gydytojas, gimdos kaklelio prevencinių priemonių atveju ir 
+akušeris-ginekologas ar akušeris, o dantų silantavimo prevencinės programos atveju ir burnos 
+higienistas, odontologas ar jo padėjėjas. 
+7.1.1. Gimdos kaklelio ir atrankinės mamografinės patikros dėl krūties vėžio prevencinės 
+programos atveju laiškų išsiuntimą (registruotu paštu arba elektroniniu laišku) vykdo 
+klinikos administratorius ir bendrosios praktikos slaugytojas. Informavimo paslauga 
+atliekama kiekvieną savait. 
+7.1.2. Kitų prevencinių programų atveju, pacientas apie galimą atlikti programą informuojamas 
+telefonu. Prevencinių programų informavimo paslauga telefonu atliekama kiekvieną 
+savaitę. Kiekvienas BPS, administratorius privalo informuoti mažiausiai 10 asmenų per 
+savaitę (kol jų yra sąraše). 
+7.2. Šeimos gydytojas informavimo ir atlikimo (jeigu yra galimybė) paslaugą atlieka klinikoje, 
+paciento vizito metu. 
+7.3. Informavimo paslaugą - apie galimą atlikti prevencinę programą- teikiant telefonu (išskyrus 
+gimdos kaklelio), pacientas iškart turi būti registruojamas vizitui pas gydytoją. 
+7.4. Už gydytojų darbo grafikų koregavimą pacientų prevencinėms programoms atlikti atsakingas 
+klinikos administratorius, bendrosios praktikos slaugytojas. 
+7.5. Už informuotų pacientų sąrašų sudarymą atsakingas klinikos administratorius ir bendrosios 
+praktikos slaugytojas. 
+7.6. Klinikoje paskirtas atsakingas asmuo reguliariai tikrina prevencinių programų įgyvendinimo 
+rodiklius ir esant nepakankamiems programos intensyvumo rodikliams inicijuojamas vidaus 
+medicininis auditas, siekiant išsiaiškinti mažo pacientų aktyvumo priežastis ir numatyti 
+priemones rezultatams gerinti. 
+8. Nuorodos 
+8.1. Lietuvos Respublikos sveikatos apsaugos ministro 2004 m. birželio 30 d. įsakymas Nr. V-482 
+“Dėl Gimdos kaklelio piktybinių navikų prevencinių priemonių, apmokamų iš Privalomojo 
+sveikatos draudimo fondo biudžeto lėšų, finansavimo programos patvirtinimo“ su pakeitimais ir 
+papildymais;
+8.2. Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. gruodžio 14 d. įsakymas Nr. V-973 
+“Dėl Priešinės liaukos vėžio ankstyvosios diagnostikos finansavimo programos patvirtinimo“, su 
+pakeitimais ir papildymais; 
+8.3. Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. lapkričio 25 d. įsakymas Nr. V-913 
+„Dėl Asmenų, priskirtinų širdies ir kraujagyslių ligų didelės rizikos grupei, atrankos ir 
+prevencijos priemonių finansavimo programos patvirtinimo“, su pakeitimais ir papildymais; 
+8.4. Lietuvos Respublikos sveikatos apsaugos ministro 2009 m. birželio 23 d. įsakymas Nr. V-508 
+„Dėl Storosios žarnos vėžio ankstyvosios diagnostikos finansavimo programos patvirtinimo“, su 
+pakeitimais ir papildymais; 
+8.5. Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. rugsėjo 23 d. įsakymas Nr. V-729 
+„Dėl Atrankinės mamografinės patikros dėl krūties vėžio finansavimo programos patvirtinimo“, 
+su pakeitimais ir papildymais; 
+8.6. Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. rugsėjo 16 d. įsakymas Nr. V-713 
+„Dėl Lietuvos Respublikos sveikatos apsaugos ministro 2005 m. rugsėjo 16 d įsakymo Nr. V713„Dėl Vaikų krūminių dantų dengimo silantinėmis medžiagomis ir išlaidų kompensavimo iš 
+Privalomojo sveikatos draudimo fondo biudžeto tvarkos aprašo bei krūminių dantų dengimo 
+silantinėmis medžiagomis paslaugų bazinių kainų patvirtinimo“, su pakeitimais ir papildymais. 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 15
+1 priedas. Gimdos kaklelio vėžio ankstyvosios diagnostikos programos informacinis 
+pranešimas. 
+–––––––––––––––––––––––––––––––––––––––––––––––––––– 
+Asmens sveikatos priežiūros įstaigos pavadinimas 
+Gimdos kaklelio vėžio ankstyvosios diagnostikos programa
+INFORMACINIS PRANEŠIMAS 
+(data) 
+––––––––––––––––––––––––––––––––––––– 
+(pacientės vardas, pavardė) 
+––––––––––––––––––––––––––––––––––––– 
+(pacientės adresas) 
+Kviečiame Jus atvykti pasitikrinti dėl galimų gimdos kaklelio pokyčių, kurie negydomi didina riziką susirgti gimdos 
+kaklelio vėžiu. Rūpindamiesi Jūsų sveikata, užregistravome Jus nemokamam profilaktiniam tyrimui (jums bus atliktas 
+gimdos kaklelio citologinio tepinėlio tyrimas arba tyrimas dėl aukštos rizikos žmogaus papilomos viruso (tyrimas 
+pasirenkamas pagal numatytą amžiaus grupę). 
+_______________________________________________________ 
+(data, laikas) 
+esate kviečiama profilaktiškai pasitikrinti dėl gimdos kaklelio ligų 
+Vieta: 
+Turėkite asmens tapatybę 
+patvirtinantį dokumentą
+Tyrimas neatliekamas menstruacijų metu, esant makšties uždegimui, likus parai (24 val.) iki tyrimo Jūs 
+neturėtumėte naudoti tamponų, kremų, makšties žvakučių, taip pat reikėtų vengti lytinių santykių, neplauti makšties. 
+ Prašome Jūsų susisiekti su mumis telefonu Nr.______________ir pranešti, jeigu negalite (netinka vizito laikas,
+tikrinotės dėl gimdos kaklelio ligų per pastaruosius 12 mėn. kitur, gimdėte mažiau kaip prieš 3 mėnesius, Jums pašalintas 
+gimdos kaklelis arba taikytas gydymas dėl gimdos kaklelio onkologinio susirgimo) ar nenorite dalyvauti programoje. Kitais 
+klausimais prašome konsultuotis su savo šeimos gydytoju. Mes rūpinamės Jūsų sveikata. 
+_____________ 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 16
+2 priedas. Priešinės liaukos vėžio ankstyvosios diagnostikos programos informacinis 
+pranešimas. 
+__________________________________ 
+(Pirminės asmens sveikatos priežiūros įstaigos pavadinimas) 
+____________________________________________________________ 
+(Kodas, adresas, telefonas) 
+Gerbiamasis ______________________________________________________________________________ , 
+(vardas ir pavardė) 
+INFORMACINIS PRANEŠIMAS
+_________________ Nr. ________ 
+(Data) 
+kreipiamės į Jus pranešdami, kad yra vykdoma Priešinės liaukos vėžio ankstyvosios diagnostikos finansavimo programa. 
+Kviečiame Jus dalyvauti šioje programoje.
+Priešinės liaukos (prostatos) vėžys yra dažniausia vyrų onkologinė liga Lietuvoje. Kiekvienais metais nustatoma apie 2000 
+naujų ligos atvejų ir šis skaičius kasmet didėja. Jei nustatomas ankstyvųjų stadijų priešinės liaukos vėžys, jo gydymas gali 
+būti efektyvus. Deja, pacientas ilgą laiką nejaučia jokių ligos simptomų, todėl dažnai (Lietuvoje apie 50 proc. atvejų) 
+aptinkamas vėlyvųjų stadijų priešinės liaukos vėžys, kurio visiškai išgydyti nebeįmanoma. 
+Priešinės liaukos vėžio ankstyvosios diagnostikos programos tikslas – kuo anksčiau nustatyti prostatos vėžį, todėl periodiškai 
+turėtų tikrintis 50‒69 metų (imtinai) vyrai ir vyrai nuo 45 metų, jei jų tėvai ar broliai sirgo šiuo vėžiu. Programos metu 
+nemokamai atliekamas prostatos specifinio antigeno (PSA) koncentracijos kraujyje nustatymo tyrimas, pagal kurį galima 
+įtarti ankstyvosios stadijos prostatos vėžį. Prireikus pacientą konsultuoja urologas ir (ar) atliekama priešinės liaukos biopsija, 
+gali būti paskirtas reikiamas gydymas. 
+Jei kiltų neaiškumų dėl dalyvavimo programoje, galite pasikonsultuoti su šeimos gydytoju. 
+Tad kviečiame Jus atvykti į 
+ _____________________________________________________________________________________________ 
+(asmens sveikatos priežiūros įstaigos pavadinimas, adresas, kabineto Nr.) 
+pas gydytoją _______________________________________________________ profilaktiškai pasitikrinti dėl 
+(vardas ir pavardė) 
+priešinės liaukos vėžio. 
+Gydytojo darbo laikas: 
+pirmadienį ___________________________________ ; 
+antradienį ____________________________________ ; 
+trečiadienį ____________________________________ ; 
+ketvirtadienį __________________________________ ; 
+penktadienį ___________________________________ . 
+Atvykimo datą ir laiką galite suderinti tel. _______________________________________ . 
+Primename, kad programa vykdoma Privalomojo sveikatos draudimo fondo biudžeto lėšomis, pacientui mokėti nereikia. 
+____________________________ _____________ ______________________ 
+(Informacinį pranešimą įteikusio (Parašas) (Vardas ir pavardė) 
+darbuotojo pareigų pavadinimas) 
+Informacinį pranešimą gavau 
+________________________________ 
+(Parašas) 
+________________________________ 
+(Vardas ir pavardė) 
+.
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 17
+3 priedas. Kvietimas dalyvauti Širdies ir kraujagyslių ligų prevencijos ir ankstyvosios 
+diagnostikos programoje 
+(pirminės asmens sveikatos priežiūros įstaigos pavadinimas) 
+ ____________________________________________________________ 
+(kodas, adresas, telefonas) 
+KVIETIMAS 
+_________ Nr. ______ 
+(data) 
+Gerbiamasis (-oji) _____________________________________________________________________________ 
+(vardas ir pavardė) 
+Kviečiame Jus atvykti pasitikrinti sveikatos pagal Širdies ir kraujagyslių ligų prevencijos ir ankstyvosios diagnostikos 
+programą. 
+Kodėl vykdoma ši patikra, kaip ji atliekama, koks jos tikslas ir kodėl jos reikia? 
+Širdies ir kraujagyslių ligos visame pasaulyje siejamos su netinkama žmonių gyvensena: nesveika mityba (maiste per daug 
+riebalų, cholesterolio, druskos), tolydžio plintančiu rūkymu, gerokai sumažėjusiu fiziniu aktyvumu, antsvoriu bei negydomu 
+padidėjusiu arteriniu kraujospūdžiu ar cukriniu diabetu. 
+Patikros tikslas – sumažinti sergamumą širdies ir kraujagyslių ligomis (krūtinės angina, miokardo infarktu, smegenų išemija, 
+insultu, periferinių arterijų tromboze), atrinkti sergančius ateroskleroze ar cukriniu diabetu žmones, siekiant užkirsti kelią šių 
+ligų plitimui. 
+Patikros metu nustatomi rizikos veiksniai ir skiriamas reikiamas gydymas. 
+Primename, kad širdies ir kraujagyslių ligų patikra visiškai apmokama Privalomojo sveikatos draudimo fondo biudžeto 
+lėšomis, pacientui primokėti nereikia. 
+Kilus neaiškumų dėl dalyvavimo patikroje, Jūs galite pasikonsultuoti su šeimos (bendrosios praktikos) gydytoju. 
+Taigi, kviečiame Jus atvykti į _______________________________________________________________ 
+ (asmens sveikatos priežiūros įstaigos pavadinimas, adresas, kabineto Nr.) 
+pas gydytoją ________________________________________ prevenciškai pasitikrinti dėl širdies ir kraujagyslių ligų. 
+ (vardas ir pavardė) 
+Apsilankymo datą ir laiką galite suderinti tel. ____________________________________________________ . 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 18
+4 priedas. Metabolinio sindromo vertinimo kriterijai ir vertinimas 
+METABOLINIO SINDROMO VERTINIMO KRITERIJAI IR VERTINIMAS 
+Eil. 
+Nr. 
+Metabolinio sindromo kriterijus Metabolinio sindromo kriterijaus 
+aprašymas 
+1. Padidėjusi liemens apimtis Liemens apimtis: 
+vyrų ≥102 cm 
+moterų ≥88 cm
+2. Padidėjusi kraujo serumo trigliceridų koncentracija 
+(arba asmuo vartoja lipidus mažinančius vaistus) 
+Kraujo serumo trigliceridų koncentracija ≥1,7 
+mmol/l 
+3. Sumažėjusi kraujo serumo DTL cholesterolio 
+koncentracija (arba asmuo vartoja lipidus 
+mažinančius vaistus) 
+DTL cholesterolio koncentracija: 
+vyrų <1 mmol/l 
+moterų <1,3 mmol/l 
+4. Padidėjęs arterinis kraujo spaudimas (arba asmuo, 
+kuriam nustatyta arterinė hipertenzija, vartoja 
+antihipertenzinius vaistus) 
+Arterinis kraujo spaudimas: sistolinis ≥130 
+mmHg ir (arba) diastolinis ≥85 mmHg 
+5. Padidėjusi alkio glikemija (arba asmuo vartoja 
+glikemiją mažinančius vaistus) 
+Gliukozės koncentracija kraujo plazmoje ≥5,6 
+mmol/l 
+5 priedas. Modifikuoti šeiminės dislipidemijos tikimybės diagnostikos kriterijai 
+MODIFIKUOTI ŠEIMINĖS DISLIPIDEMIJOS TIKIMYBĖS DIAGNOSTIKOS KRITERIJAI 
+Nustatant šeiminės dislipidemijos tikimybę yra vertinami šie diagnostikos kriterijai: mažo tankio lipoproteinų 
+cholesterolis (MTL chol) ≥ 5 mmol/l (negydant antilipidiniais vaistais) ir esant bent vienam iš šių kriterijų: 
+ pacientui diagnozuota ankstyva (vyrai <55 metų, moterys <60 metų) širdies vainikinių, smegenų ar 
+periferinių arterijų liga; 
+ pirmos eilės giminaičiui yra nustatyta ankstyva (vyrams <55 metų, moterims <60 metų) širdies vainikinių, 
+smegenų ar periferinių arterijų liga; 
+ pacientui iki 45 metų nustatytos ksantomos, ksanteliazmos odoje ir sausgyslėse arba ragenos lankas. 
+__________________________________________ 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 19
+6 priedas. SCORE 2 rizikos nustatymo lentelė 
+SCORE 2 (ANGL. SYSTEMATIC CORONARY RISK ESTIMATION) RIZIKOS NUSTATYMO LENTELĖ 
+10 metų laikotarpiu mirtinos ir nemirtinos širdies 
+kraujagyslių ligos rizika (kai populiacijoje labai 
+didelė rizika) 
+˂ 50 metų 50–96 metai 
+˂2,5 % ˂5% 
+2,5 – ˂7,5 % 5–10 % 
+≥7,5 % ≥10 % 
+ 
+Moterys Vyrai 
+ 
+Nerūkančios Rūkančios Nerūkantys Rūkantys 
+Amžius 
+160–
+179 
+27 28 30 31 41 42 44 46 26 28 30 32 36 39 42 44 
+140–
+159 
+22 23 24 26 34 36 37 39 65 – 69 22 24 26 27 31 33 36 38 
+120–
+139 
+18 19 20 21 28 30 31 33 18 20 21 23 26 28 30 33 
+100–
+119 
+15 16 16 17 23 24 26 27 15 17 18 19 22 24 26 28 
+ 
+160–
+179
+20 21 22 24 33 35 37 39 20 23 25 27 31 33 36 40 
+140–
+159 
+16 17 18 19 27 29 30 32 60 – 65 17 19 20 22 25 28 31 33 
+120–
+139 
+12 13 14 15 22 23 25 26 14 15 17 18 21 23 25 28 
+100–
+119 
+10 11 11 12 17 18 20 21 11 12 14 15 17 19 21 23 
+ 
+160–
+179 
+14 15 17 18 26 28 31 33 16 18 20 23 25 28 32 35 
+140–
+159 
+11 12 13 14 21 23 24 26 55 – 59 13 14 16 18 21 23 26 29 
+120–
+139 
+8 9 10 11 16 18 19 21 10 11 13 15 17 19 22 25 
+100–
+119 
+7 7 8 9 13 14 15 16 8 9 10 12 13 15 17 19 
+ 
+160–
+179 
+10 11 12 14 21 23 25 28 12 14 16 19 21 24 28 31 
+140–
+159 
+8 9 9 11 16 18 19 22 50 – 54 10 11 13 15 17 19 22 25 
+120–
+139 
+6 6 7 8 12 13 15 17 7 9 10 12 13 15 17 20 
+100–
+119 
+4 5 5 6 9 10 11 13 6 7 8 9 10 12 14 16 
+ 
+160–
+179 
+7 8 9 10 16 18 21 23 9 11 13 16 17 20 24 28 
+140–
+159
+5 6 7 8 12 14 15 17 45 – 49 7 8 10 12 13 16 18 22 
+120–
+139 
+4 4 5 6 9 10 12 13 5 6 8 9 10 12 14 17 
+100–
+119 
+3 3 4 4 7 8 9 10 4 5 6 7 8 9 11 13 
+ 
+160–
+179 
+5 6 7 8 13 15 17 19 7 9 11 13 14 17 20 24 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 20
+140–
+159 
+4 4 5 6 9 11 12 14 40 – 44 5 6 8 10 11 13 16 19 
+120–
+139 
+3 3 3 4 7 8 9 10 4 5 6 7 8 10 12 14 
+100–
+119
+2 2 2 3 5 6 6 7 3 4 4 5 6 7 9 11 
+(mm 
+Hg) 
+3,0 4,0- 5,0- 6,0- 3,0- 4,0- 5,0- 6,0- 3,0- 4,0- 5,0- 6,0- 3,0- 4,0- 5,0- 6,0- 
+3,9 4,9 5,9 6,9 3,9 4,9 5,9 6,9 3,9 4,9 5,9 6,9 3,9 4,9 5,9 6,9 
+Ne DTL cholesterolis (mmol/l) Ne DTL cholesterolis (mmol/l) 
+ __________________________________________________________ 
+7 priedas. Paciento priskyrimo atitinkamai širdies ir kraujagyslių ligų rizikos grupei kriterijai 
+PACIENTO PRISKYRIMO ATITINKAMAI ŠIRDIES IR KRAUJAGYSLIŲ LIGŲ RIZIKOS GRUPEI 
+KRITERIJAI 
+Paciento priskyrimo 
+mažos ir vidutinės 
+širdies ir 
+kraujagyslių ligų 
+rizikos grupei 
+kriterijai 
+Paciento priskyrimo didelės 
+širdies ir kraujagyslių ligų 
+rizikos grupei paciento 
+kriterijai 
+Paciento priskyrimo labai didelės širdies ir 
+kraujagyslių ligų rizikos grupei kriterijai 
+1. SCORE2 
+˂50 m. ˂ 2,5 % 
+>50 m. ˂5 %
+2. 1 ar 2 tipo cukrinis 
+diabetas (CD) be 
+organų taikinių 
+pažeidimo, gydomas 
+<10 metų, nesant kitų 
+rizikos veiksnių. 
+1. SCORE2 
+˂50 m 2,5 % –7,5 %, 
+>50 m. 5 –10 % 
+2. 1 ar 2 tipo cukrinis diabetas 
+(CD) be ženklaus organų taikinių 
+pažeidimo, nesant kitų rizikos 
+veiksnių, neatitinkantis vidutinės 
+rizikos kriterijų. 
+3. Šeiminė dislipidemija: MTL 
+Ch >5 mmol/l 
+4. Vidutinio sunkumo lėtinė 
+inkstų liga: GFG 30–44 
+ml/min/1.73m² ir A/K santykis 
+<30 arba GFG 45–59 
+ml/min/1.73m² ir A/K santykis 
+30–300, arba GFG >60 
+ml/min/1.73m² ir A/K santykis 
+>300 
+1. BCh >8 mmol/l 
+2. MTL Ch >5 mmol/l 
+3. III laipsnio hipertenzija1
+ 
+4. 1 ar 2 tipo cukrinis diabetas (CD) su 
+organų taikinių pažeidimu: 
+GFG <45 ml/min/1.73m² nepriklausomai nuo 
+albuminurijos arba 
+GFG 45–59 ml/min/1.73 m² ir A/K santykis 30–
+300, 
+arba proteinurija A/K santykis >300, 
+arba mikrovaskulinė liga mažiausiai trijuose 
+baseinuose (pvz., mikroalbuminurija plius 
+retinopatija plius neuropatija), 
+arba gydomas ≥ 10 m. arba esant kitiems širdies ir 
+kraujagyslių ligų rizikos veiksniams. 
+5. Vidutinio sunkumo lėtinė inkstų liga: 
+GFG 30–44 ml/min/1.73m² ir A/K santykis >300 
+6. SCORE2 ˂50 m ≥7,5%, >50 m. ≥10 % 
+7. Metabolinis sindromas. 
+8. Aterosklerozinė širdies liga (kai 
+kompiuterinės tomografijos būdu keliose 
+didžiosiose vainikinėse arterijose ar ultragarsinio 
+tyrimo būdu miego arterijose nustatyti pakitimai 
+su stenozėmis ≤ 50 proc. kraujagyslės spindžio). 
+1
+ Nustatyta Hipertenzinių ligų gydymo vaistais, kurių įsigijimo išlaidos apmokamos Privalomojo sveikatos draudimo fondo 
+biudžeto lėšomis, tvarkos aprašo, patvirtinto Lietuvos Respublikos sveikatos apsaugos ministro 2020 m. spalio 1 d. įsakymu 
+Nr. V-2161 „Dėl Hipertenzinių ligų gydymo vaistais, kurių įsigijimo išlaidos apmokamos Privalomojo sveikatos draudimo 
+fondo biudžeto lėšomis, tvarkos aprašo patvirtinimo“, 4.2 papunktyje nurodyta tvarka. 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 21
+8 priedas. Paciento širdies ir kraujagyslių ligų rizikos nustatymo anketa 
+PACIENTO ŠIRDIES IR KRAUJAGYSLIŲ LIGŲ RIZIKOS NUSTATYMO ANKETA
+____________________ 
+Vertinimo data 
+TIRIAMOJO VARDAS, PAVARDĖ LYTIS 
+ vyr.  mot.
+GIMIMO DATA AMŽIUS 
+(METAIS) 
+Pacientas supažindintas su Širdies ir kraujagyslių ligų prevencijos ir ankstyvosios diagnostikos programos tikslais ir 
+priemonėmis. Pacientas informuotas, kad visi šios programos įgyvendinimo metu apie jį surinkti demografiniai, 
+medicininiai duomenys ir atliktų tyrimų rezultatai liks konfidencialūs.
+GRETUTUNIAI LĖTINIAI SUSIRGIMAI
+ANKSTESNĖS IR DABARTINĖS 
+LĖTINĖS LIGOS
+ŠIUO METU VARTOJAMI VAISTAI PAROS DOZĖ 
+RIZIKOS VEIKSNIAI
+Bendras rizikos veiksnių skaičius
+VEIKSNIAI NĖRA YRA
+Arterinė hipertenzija (≥140/90 mmHg)  YRA, NEGYDOMA  YRA, GYDOMA 
+Dislipidemija (MTL-Ch >3 mmol/l, 
+TAG > 1,7 mmol/l, DTL-Ch vyr. <0,9 
+mmol/l, mot. <1,3 mmo/l
+
+YRA, NEGYDOMA  YRA, GYDOMA 
+Cukrinis diabetas, arba gliukozės 
+tolerancijos sutrikimas, arba alkio 
+gliukozės sutrikimas
+
+YRA, NEGYDOMA  YRA, GYDOMA 
+Pilvinio tipo nutukimas (juosmens 
+apimtis vyr. > 102 cm, mot. > 88 cm) 
+ir/arba KMI >25 kg/m² 
+
+YRA, NEGYDOMA  YRA, GYDOMA 
+Rūkymas 
+
+RŪKO DABAR  CIG.SK 
+PER D. 
+RŪKĖ 
+ANKSČIAU 
+METĖ 
+PRIEŠ 
+STAŽAS MET. 
+MET. 
+Nepakankamas fizinis aktyvumas 
+
+YRA  Fizinis aktyvumas <150 
+min./sav. vidutiniu 
+intensyvumu arba <75 
+min./sav. dideliu 
+intensyvumu, arba 
+atitinkamas dviejų 
+intensyvumo lygių derinys 
+per savaitę 
+Nesubalansuota mityba 
+
+YRA  Daug sočiųjų riebalų, transriebalų, druskos, raudonos 
+mėsos, cukraus, alkoholio > 
+100 g/sav., mažai daržovių, 
+vaisių, žuvies, riešutų, pilno 
+grūdo produktų.
+Šeiminė ankstyvos ŠKL (vyr. <55 m., 
+mot. <60 m) ar ankstyvos širdinės 
+mirties anamnezė
+
+YRA  NEŽINOMA 
+Šeiminė cukrinio diabeto anamnezė  YRA  NEŽINOMA 
+Šeiminės dislipidemijos tikimybė  YRA  NEŽINOMA 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 22
+OBJEKTYVI BŪKLĖ IR ATLIKTI TYRIMAI
+Ūgis cm Svoris kg Liemens apimtis cm KMI
+AKS mmHg / ŠSD k/min AKS/ŠSD 3 matavimai, kas 1–2 min., paskutinių 2-jų 
+matavimų vidurkis. Matuojama sėdint po 5 min. poilsio.
+Tyrimai / radiniai Rezultatai / komentarai 
+Gliukozė veniniame kraujyje 
+(nevalgius 8–12 val.)2
+mmol/l
+jei gliukozės konc. nevalgius 6,1 
+mmol/l, reikalingas tolesnis 
+vertinimas 
+Glikozilinto hemoglobino tyrimas 
+(jei reikalingas) %
+Lipidograma 
+(nevalgius 8–12 val.) 
+B. cholest. 
+mmol/l 
+DTL 
+cholest. 
+mmol/l 
+NDTL 
+cholest. 
+mmol/l 
+MTL cholest. 
+mmol/l 
+Trigliceridai 
+mmol/l 
+EKG (12 derivacijų; 25 mm/s)  norma  pakitimai:
+Metabolinis sindromas  nėra  yra yra mažiausiai 3 požymiai iš 5 
+(NCEP ATP III)
+Bendras širdies ir kraujagyslių ligų rizikos 
+vertinimas3 pagal SCORE2 
+Kreatinino tyrimas µmol/l aGFG A/K4
+ŠIRDIES IR KRAUJAGYSLIŲ LIGŲ RIZIKOS GRUPĖ 
+Nustatyta širdies ir 
+kraujagyslių ligų rizikos 
+grupė:
+□ maža ir vidutinė □ didelė □labai didelė 
+2
+ Pacientams, sergantiems cukriniu diabetu, glikozilinto hemoglobino tyrimas, jei šis tyrimas atliktas daugiau kaip prieš 3 
+mėn. 
+3
+ Nevertinama pacientams, sergantiems 1 ir 2 tipo cukriniu diabetu, lėtine inkstu liga, šeimine dislipidemija. 
+4
+ Albumino ir kreatinino santykio nustatymas atliekamas asmenims, sergantiems cukriniu diabetu. 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 23
+9 priedas. Paciento, priskirto širdies ir kraujagyslių ligų rizikos grupei, širdies ir kraujagyslių 
+ligų prevencijos priemonių planas 
+PACIENTO, PRISKIRTO ŠIRDIES IR KRAUJAGYSLIŲ LIGŲ RIZIKOS GRUPEI, ŠIRDIES IR 
+KRAUJAGYSLIŲ LIGŲ PREVENCIJOS PRIEMONIŲ PLANAS 
+1. Širdies ir kraujagyslių ligų rizikos grupė: 
+pradžioje: Didelė □ Labai didelė □ 
+po 6 mėn.: Didelė □ Labai didelė □ 
+2. Tikslinis MTL, atsižvelgiant į širdies ir kraujagyslių ligų rizikos grupę: 
+Maža ir vidutinė –<2.6 mmol/l □ Didelė –< 1.8 mmol/l □ Labai didelė –< 1.4 mmol/l □ 
+Pasiektas MTL mmol/l □ 
+Ar pasiektas tikslinis MTL taip □, ne □ 
+3. Tikslinis AKS: <130/80 mmHg □ 
+Ar pasiektas tikslinis AKS taip □, ne □ 
+4. Metimas rūkyti: Farmakologinės □ Elgesio keitimo priemonės □. Vengti pasyvaus rūkymo. 
+Ar metė rūkyti: taip □, ne □ 
+5. Sveika mityba: Dieta: vaisių ir daržovių suvartojimas > 200 g per dieną, 35–45 g skaidulų (rekomenduojama iš kruopų), 
+saikingas riešutų suvartojimas (30 g per dieną, nesūdytų), 1–2 porcijos žuvies per savaitę (viena riebi žuvis), ribotas liesos 
+mėsos, neriebių pieno produktų ir skystų augalinių aliejų kiekis, sotieji riebalai <10 % visų suvartojamų riebalų, juos keisti 
+polinesočiausiais riebalais, mažinti transriebalų kiekį, pageidautina, kad jie nebūtų iš perdirbto maisto ir sudarytų <1 % visos 
+suvartojamos energijos, druskos ˂ 5–6 g per dieną. 
+Atsisakyti alkoholio, jei vartojamas, riboti suvartojimą iki ˂100 g per savaitę arba <15 g per dieną. Vengti daug energijos 
+turinčių maisto produktų, tokių kaip cukrumi saldinti gaivieji gėrimai, 
+kita ________________________________________________________________________ 
+Šios dienos dieta 
+6. Fizinis aktyvumas: 30–60 minučių vidutinio sunkumo fizinis aktyvumas kasdien, naudinga ir nereguliari fizinė veikla □, 
+kita ___________________________________________________ 
+Pasiektas fizinis aktyvumas 
+7. Sveikas svoris: Kūno masės indeksas (KMI) ˂25 kg/m2
+ □, siektinas KMI ____________ 
+svorio kontrolei rekomenduojama didinti fizinį krūvį □, kita ___________________________ 
+Pasiektas KMI 
+8. Reguliarus paskirtų vaistų vartojimas: 
+Antilipidinis gydymas __________________________________________________________ 
+Antihipertenzinis ir ŠSD reguliuojantis (kardioprotekcinis) gydymas______________________ 
+_____________________________________________________________________________ 
+Šiuo metu vartojami vaistai: ______________________________________________________ 
+9. Kitos rekomendacijos tabako ir alkoholio rizikos 
+vertinimas________________________________________________________ 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 24
+10 priedas. Informacinis pranešimas dėl storosios žarnos vėžio ankstyvosios 
+diagnostikos programos 
+___________________________________________________ 
+(pirminės asmens sveikatos priežiūros įstaigos pavadinimas) 
+___________________________________________________ 
+(kodas, adresas, telefonas) 
+Gerbiamas __________________________________________ 
+(vardas ir pavardė) 
+INFORMACINIS PRANEŠIMAS 
+______________ Nr. ____________ 
+(data) 
+Kreipiamės į Jus pranešdami, kad vykdoma Storosios žarnos vėžio ankstyvosios diagnostikos finansavimo programa, pagal 
+kurią numatoma tikrinti gyventojų sveikatą. 
+Kviečiame Jus dalyvauti šioje patikroje. 
+Kodėl vykdoma ši patikra, kaip ji atliekama, koks jos tikslas ir kodėl jos reikia? 
+ 
+Storosios žarnos vėžys yra viena iš dažniausių onkologinių ligų Lietuvoje. Kiekvienais metais nustatoma apie 1500 naujų 
+ligos atvejų ir šis skaičius kasmet didėja. Jei nustatomas ankstyvųjų stadijų storosios žarnos vėžys, jo gydymas gali būti 
+efektyvus. Deja, pacientas ilgą laiką nejaučia jokių ligos požymių, todėl dažnai Lietuvoje aptinkamas Iv stadijos storosios 
+žarnos vėžys, kurio visiškai išgydyti nebeįmanoma. 
+Storosios žarnos vėžio ankstyvosios diagnostikos programos tikslas – kuo anksčiau nustatyti storosios žarnos vėžį. Todėl kas 
+2 metus reguliariai turėtų būti tikrinami asmenys, sulaukę 50–74 metų amžiaus, atliekant slapto kraujavimo testą, pagal kurį 
+galima numatyti ankstyvosios stadijos storosios žarnos vėžį. Tai leistų efektyviai gydyti šią ligą ir pasiekti, kad pacientas 
+visiškai pasveiktų. 
+Nustačius slaptą kraujavimą, pacientas bus siunčiamas konsultuotis pas gydytoją specialistą, atliekama kolonoskopija ir, 
+esant reikalui, paimama biopsijos medžiaga. Nustatytas slaptas kraujavimas leidžia iš anksto nuspėti storosios žarnos vėžį. 
+Kolonoskopija ir, jei reikia, biopsija yra vienintelis būdas objektyviai patvirtinti storosios žarnos vėžio diagnozę. 
+Patikros metu nemokamai atliekamas slapto kraujavimo nustatymo testas, prireikus pacientas siunčiamas pas gydytoją 
+specialistą atlikti kolonoskopiją ir, jei reikia, paimti biopsijos medžiagą, o esant reikalui – gali būti paskirtas reikiamas 
+gydymas. 
+Jei kiltų neaiškumų dėl dalyvavimo patikroje, Jūs galite pasitarti su šeimos gydytoju. 
+Kviečiame Jus atvykti į 
+______________________________________________________________________ 
+(asmens sveikatos priežiūros įstaigos pavadinimas, adresas, kabineto Nr.) 
+ 
+pas gydytoją ____________________________ profilaktiškai pasitikrinti
+(vardas ir pavardė) dėl storosios žarnos vėžio.
+ 
+Gydytojo darbo laikas: 
+ 
+pirmadienį _______________; 
+antradienį ______________; 
+trečiadienį _____________; 
+ketvirtadienį ______________; 
+penktadienį _____________. 
+ 
+Atvykimo datą ir laiką galite suderinti tel. ______. 
+ 
+Primename, kad patikra dėl storosios žarnos vėžio apmokama Privalomojo sveikatos draudimo fondo biudžeto lėšomis, 
+pacientui primokėti nereikia. 
+ 
+________________________ 
+(informacinį pranešimą įteikusio 
+darbuotojo pareigų pavadinimas)
+______________ 
+(parašas) 
+_________________ 
+(vardas ir pavardė) 
+ 
+Informacinį pranešimą gavau 
+________________________ 
+(parašas) 
+________________________ 
+(vardas ir pavardė) 
+________________________ 
+(data) 
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 25
+11 priedas. Informacinis pranešimas dėl atrankinės mamografinės patikros dėl krūties vėžio 
+diagnostikos programos 
+________________________________________________________ 
+(Pirminės asmens sveikatos priežiūros įstaigos pavadinimas) 
+_____________________________________ 
+(Kodas, adresas, telefonas) 
+ ________________________ 
+(Moters vardas, pavardė) 
+________________________________ 
+(Moters gyvenamosios vietos adresas 
+arba elektroninio pašto adresas) 
+INFORMACINIS PRANEŠIMAS 
+________________ 
+(data) 
+Kviečiame Jus atvykti pasitikrinti pagal Atrankinės mamografinės patikros dėl krūties vėžio 
+finansavimo programą (toliau – Programa). Krūties vėžys Lietuvoje – dažniausia moterų onkologinė liga, 
+kuria kasmet suserga apie 1 200 moterų. 90 proc. moterų, susirgusių krūties vėžiu, gali būti išgydytos, jei 
+liga nustatoma laiku. Patikros atliekamos, siekiant kuo anksčiau nustatyti krūties vėžį arba ikivėžinius krūties 
+pakitimus. 
+Patikros metu nemokamai atliekamas krūtų rentgenologinis tyrimas, t. y. mamograma. Šio tyrimo 
+tikslas – nustatyti, ar yra pakitimų krūtyje. Tolesni veiksmai priklauso nuo mamogramos vertinimo rezultatų. 
+Prašome Jūsų susisiekti su mumis telefonu Nr.______________ arba elektroninio pašto adresu 
+__________ ir pranešti apie tai, ar sutinkate pasitikrinti pagal Programą. Gavęs informaciją apie Jūsų 
+sutikimą pasitikrinti pagal Programą, šeimos gydytojas išrašys siuntimą atlikti mamografijos tyrimą ir 
+informuos Jus apie siuntimo išrašymą bei gydymo įstaigas, kuriose ši paslauga gali būti suteikta (nurodomos 
+bent 3 gydymo įstaigos). 
+Jei Jums kyla kokių nors neaiškumų dėl pasitikrinimo pagal Programą ar turite kitų klausimų, 
+prašome konsultuotis su savo šeimos gydytoju. 
+Mes rūpinamės Jūsų sveikata. 
+______________
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 26
+12 priedas. Informacinis pranešimas dėl atrankinės mamografinės patikros dėl krūties vėžio 
+diagnostikos programos 
+___________________________________________________ 
+(mamogramų vertinimo paslaugą teikiančios įstaigos pavadinimas) 
+MAMOGRAMŲ ĮVERTINIMO PROTOKOLAS 
+ ______________ Nr. __________ 
+ (tyrimo (data) (tyrimo numeris) 
+_________________ 
+(sudarymo vieta) 
+Pacientė ___________________________ ______________________________ 
+ (vardas, pavardė) (asmens kodas) 
+ ________________________________________________________________________________ 
+ (adresas) 
+Pirminės ambulatorinės asmens sveikatos priežiūros įstaiga __________________________ 
+ (pavadinimas) 
+ ________________________________________________________________________________ 
+ ________________________________________________________________________________ 
+ (adresas) 
+ ------------------------------------------------------------------------------------------------------------------------- 
+Ar pacientė čiuopia sukietėjimą krūtyse? Taip Ne
+ 
+Jei taip, pažymėti sukietėjimą () 
+paveikslėlyje
+ 
+Ar buvo operuotos krūtys? Taip Ne
+ 
+Jei taip, pažymėti, kuri krūtis operuota D K 
+ 
+D K
+kada, dėl kokios priežasties ____________________________________________________ 
+ (data) (diagnozė) 
+Ar buvo anksčiau darytos mamogramos? Taip Ne
+ 
+Jei taip, kada, kur ____________________________________________________________ 
+ (data) (įstaigos pavadinimas) 
+ ------------------------------------------------------------------------------------------------------------------------- 
+MAMOGRAMOS 
+Projekcijos: tiesinės 1, įstrižinės 2 
+Liaukos parenchima labai tanki A, tanki B, vidutinio tankio C, involiucinė D
+Projekcija 
+Liaukos parenchima
+Be pakitimų    
+Pakitimų yra    
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 27
+MAMOGRAFINĖ DIAGNOZĖ REKOMENDACIJOS
+BE PAKITIMŲ D K Papildomo tyrimo nereikia 
+  Mamografinė kontrolė  po ______ mėn.
+PAKITIMAI Papildoma mamografija 
+Papildoma projekcija 
+Gerybiniai   Lokalus prispaudimas 
+Galimai gerybiniai   Padidinimas 
+Galimai piktybiniai   Ultragarsinis tyrimas 
+Piktybiniai   Ultragarsinis tyrimas 
+Chirurgo konsultacija 
+Stereotaksinė punkcija 
+Stereotaksinė biopsija 
+Stereotaksinis žymėjimas 
+Kita mamografija po ________ m.
+IŠVADA ir REKOMENDACIJOS _____________________________________________ 
+Gydytojas ___________________________ ________________________________ 
+ (parašas) (vardas ir pavardė) 
+Pildoma, jei randama pakitimų 
+RIBOTI DARINIAI 
+Dydis __ mm. Lokalizacija _____ kvadrantas. Nuo spenelio ____ cm. 
+Forma D K Kontūrai D K Tankumas D K
+apvali   aiškūs   skaidrus  
+ovali   neryškūs   tankus  
+kiltėta   lygūs   nedidelio tankumo  
+netaisyklinga   nelygūs   mišrus  
+kapsulė  
+„halo“ simptomas  
+PARENCHIMOS TANKUMO PADIDĖJIMAS D K
+Visos liaukos  
+Kvadranto   _______ kvadr.
+Lokalus   _______ kvadr.
+KALCINATAI 
+Lokalizacija. D. krūtis, kvadrantas, skiltelė.
+K. krūtis, kvadrantas, skiltelė.
+Forma D K Kontūrai D K Tankumas D K 
+apvali   lygūs   tolygus  
+žiedinė   nelygūs   netolygus  
+linijinė  
+pailga   Kiekis D K Dydis D K Pasiskirstymas D K 
+granulinė   Pavieniai   stambūs 
+1 mm
+  grupele  
+susiliejanti   Daugybiniai   smulkūs 
+1 mm
+  išsisklaidę:  
+netaisyklinga   Skaičius   vienodo 
+dydžio
+  skiltelėje 
+mišri   nevienodo 
+dydžio
+  kvadrante 
+krūtyje
+Fonas sutankėjimas
+InMedica klinika ir Kardiolitos klinikų prevencinių programų procedūra KSD-4 
+InMedica, Kardiolita 28
+PARENCHIMOS PIEŠINIO DEFORMACIJA 
+ D K 
+Spindulinė   Centras D K Spikulos D K 
+Netaisyklinga   tankesnis mazgas   (dydis__mm) ilgos  
+prašviesėjimas   trumpos  
+ plonos 
+paskiros
+ 
+ plonos 
+grupelėmis
+ 
+ODOS SUSTORĖJIMAS 
+ D K 
+Lokalus  
+Difuzinis  
+ODOS ĮTRAUKIMAS D K SPENELIO ĮTRAUKIMAS D K 
+   
+PAŽASTIES LIMFMAZGIAI D K 
+ 
+Skaičius
+Gydytojas __________________________ _________________________________ 
