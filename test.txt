@@ -1,16 +1,16 @@
-Naujų Darbuotojų Įvedimo Į Darbą Instrukcijos
+Naudinga informacija UAB InMedica įmonės darbuotojams:
 
-Sveiki atvykę į mūsų kompaniją! Šis dokumentas padės jums greitai ir lengvai įsitraukti į darbo procesus.
 
 IT Sistemos ir Kompiuterių Priežiūra:
 
-Jei turite idėjų ar pasiūlymų dėl IT sistemų tobulinimo, prašome kreiptis į IT vystymo padalinio vadovą Mantą Varną. Kontaktai: tel. +370 616 97126, el. paštas mantas.varna@inmedica.lt
-Kilus problemoms su IT sistemomis arba kompiuteriais (kompais), kreipkitės į IT pagalbos padalinį. Registracijos nuoroda: https://it.inmedica.lt/scp/login.php. Galite taip pat skambinti Vaidai Minkevičienei, tel. +37061010854.
+Jei turite idėjų ar pasiūlymų dėl IT sistemų tobulinimo, prašome kreiptis į IT vystymo padalinio vadovą Mantą Varną. Kontaktai: tel. +370 616 97126, el. paštas mantas.varna@inmedica.lt. Tobulinti galima šias sistemas: Foxus (skirta medikams, gydytojams ir administracijai), TSM (skirta buhalterijai ir finansams), Edrana (skirta personalo valdymui), ClinicCards (skirta odontologams), Qlik (skirta personalo duomenų analizei)
+ 
+Kilus problemoms su IT sistemomis arba kompiuteriais (kompais), kreipkitės į IT pagalbos padalinį. Registracijos nuoroda: https://it.inmedica.lt/scp/login.php. Skubiais klausimais dėl kompiuterių gedimų galite skambinti Matui Urbonavičiui, tel. nr. +37068814479. Skubiais klausimais dėl sistemų blogo veikimo arba neveikimo, galite skambinti Aurimui Morkūnui, tel. nr. +370 616 51730.  
 
 
 Personalas ir Administracija:
 
-Dėl atostogų, darbo laiko ar kitų personalo klausimų kreipkitės į personalo skyrių. Kontaktai: personalas@inmedica.lt.
+Dėl atostogų, motyvacinių priedų, darbo laiko ar kitų personalo klausimų kreipkitės į personalo skyrių. Personalo skyriaus vadovė Ilona Stonienė, el. p. ilona.stoniene@inmedica.lt
 Dokumentų, įskaitant darbo sutartis, pateikimas vyksta per personalo skyrių.
 
 Finansai ir Buhalterija:
@@ -19,94 +19,19 @@ Dėl išlaidų ataskaitų teikimo ir patvirtinimo taisyklių, kreipkitės į sav
 
 Marketingas ir Komunikacija:
 
-Marketingo skyrius atsakingas už įmonės išorinę ir vidinę komunikaciją. Jei turite idėjų ar pasiūlymų, susijusių su marketingu, kreipkitės į marketingo vadovą, kuri yra Ernesta Juodviršienė. Marketingo skyrius taip pat prižiūri ir tvarko Foxus sistemoje paslaugas, kurios teikiamos klinikose. Jei neveikia arba nerandate paslaugos, kreipkitės į Domantą.
+Marketingo skyrius atsakingas už įmonės išorinę ir vidinę komunikaciją. Jei turite idėjų ar pasiūlymų, susijusių su marketingu, užpildykite užklausą registre: https://pk.inmedica.lt/open.php. Marketingo skyrius taip pat prižiūri ir tvarko paslaugas Foxus sistemoje, kurios teikiamos klinikose. Jei neveikia arba nerandate paslaugos, užpildykite užklausą registre: https://pk.inmedica.lt/open.php.
 Įmonės renginiai, socialinės medijos ir kitos komunikacijos iniciatyvos yra koordinuojamos per marketingo skyrių. 
 
-Projektų Valdymas:
-Visi klausimai, susiję su jūsų projektų valdymu, turi būti sprendžiami per projektų valdymo skyrių.
-Dėl projekto tikslų, užduočių ir terminų derinimo kreipkitės į savo projekto vadovą.
 
 Sveikatos ir Saugos Klausimai:
 Už darbo saugą ir sveikatos apsaugą atsakingas darbo saugos skyrius.
 Jei susidūrėte su darbo saugos problema ar turite pasiūlymų, kaip pagerinti darbo aplinką, kreipkitės į darbo saugos specialistą. Taip pat galite skambinti telefono numeriu +37061542147
 
-Kontaktai Naujų Darbuotojų klausimams:
+Naujų gydytojų, medikų, odontologų mokymai:
 
-Jei turite bendrų klausimų, susijusių su įvedimu į darbą, prašome susisiekti su mūsų naujų darbuotojų koordinatoriumi: nauji.darbuotojai@inmedica.lt
-Dėkojame, kad prisijungėte prie mūsų komandos! Tikiuosi, kad šis vadovas padės jums lengvai įsilieti į įmonės veiklą.
-
-Keletas pavyzdžių, kaip galėtumėte pasiūlyti papildomas medicinos paslaugas, atsižvelgiant į paciento poreikius, įvairiose specializacijose:
-Dermatologija
-Plaukų šalinimas kojose pasiūlymo pavyzdys:
-Pasiūlymas: "Matau, kad domitės plaukų šalinimu kojose. Galbūt norėtumėte išbandyti viso kūno plaukų šalinimą? Tai ne tik suteikia ilgalaikį rezultatą, bet ir padeda jums jaustis dar labiau pasitikinčiai savimi. Taip pat galime pasiūlyti Jums veido odos atjauninimo procedūras, kurios puikiai papildytų Jūsų grožio priežiūros rutiną."
-
-Kardiologija
-Kraujospūdžio kontrolė pasiūlymo pavyzdys:
-Pasiūlymas: "Jūsų susirūpinimas dėl kraujospūdžio yra labai svarbus. Be reguliariosios priežiūros, siūlome išsamią širdies sveikatos patikrą, kuri apima EKG ir širdies echoskopiją. Tai padės mums gauti išsamų Jūsų širdies būklės vaizdą ir prireikus pritaikyti gydymą."
-
-Endokrinologija
-Cukrinio diabeto valdymas:
-Pasiūlymas: "Be pagrindinio cukrinio diabeto valdymo, siūlome Jums prisijungti prie mūsų mitybos ir gyvensenos korekcijos programos. Tai padės geriau kontroliuoti cukraus kiekį kraujyje ir užtikrins visapusišką sveikatos gerinimą. Taip pat galime pasiūlyti hormonų korekcijos terapiją, jei bus nustatyti kiti sutrikimai."
-
-Ortopedija
-Sąnarių skausmas:
-Pasiūlymas: "Sąnarių skausmas gali būti rimtas trukdys Jūsų kasdieniam gyvenimui. Be skausmo valdymo ir gydymo, galbūt norėtumėte apsvarstyti mūsų reabilitacijos programą, kuri yra specialiai pritaikyta sąnarių stiprinimui ir lankstumui gerinti. Tai gali padėti išvengti būsimų problemų ir pagerinti gyvenimo kokybę."
-
-Estetinė Medicina
-Veido odos atjauninimas:
-Pasiūlymas: "Jūsų susidomėjimas veido odos atjauninimu rodo norą išlaikyti švytinčią ir jaunatvišką išvaizdą. Galime pasiūlyti kombinuotas procedūras, pavyzdžiui, veido kontūrų korekciją su hialurono rūgšties injekcijomis, kurios papildys atjauninimo efektą ir padės pasiekti dar stulbinančius rezultatus."
-
-Šie pavyzdžiai yra tik dalis galimybių, kaip galite pristatyti ir pasiūlyti papildomas paslaugas pacientams, atsižvelgiant į jų pirminius poreikius ir lūkesčius. Svarbu pabrėžti naudą, kurią gaus pacientas, ir kaip tai pagerins jų gyvenimo kokybę ar sveikatą.
-
-2.1. visos vairuotojų sveikatos patikrinimo medicinos pažymos galioja iki 2024 m. gegužės 
-31 d. Ši nuostata netaikoma:
-2.1.1. vairuotojų, kuriems diagnozuotos ligos ar sveikatos problemos (dėl kurių gali būti 
-ribojama teisė vairuoti transporto priemones), nurodytos Aprašo 3 lentelėje, sveikatos patikrinimo 
-medicinos pažymoms;
-2.1.2. vairuotojų sveikatos patikrinimo medicinos pažymoms, kurios galioja ilgiau nei iki 
-2024 m. gegužės 31 d.
-3. N u s t a t a u, kad šis įsakymas įsigalioja 2023 m. lapkričio 20 d.
+Jei reikia apmokyti gydytojus dirbti su Foxus ar ClinicCards, kreipkitės į mokymų skyriaus vadovę Dovilę Cvirkiene el. paštu dovile.cvirkiene@inmedica.lt
 
 
-Gydytojų ir Jų Teikiamų Paslaugų Aprašymai:
-
-Dr. Jonas Jonaitis
-Specializacija: šeimos medicina
-Paslaugos: Bendrosios praktikos konsultacija, skiepijimas, lėtinių ligų valdymas.
-Adresas: Gedimino pr. 10, Vilnius
-Kalbos: lietuvių, anglų
-Apie: Dr. Jonas Jonaitis turi daugiau nei 15 metų patirtį šeimos medicinos srityje. Jis yra pripažintas savo gebėjimu kurti ilgalaikius santykius su pacientais ir jų šeimomis, užtikrinant nuoseklų ir asmeniškai pritaikytą priežiūrą.
-
-Dr. Eglė Eglė
-Darbo laikas: 8-12 val.
-Specializacija: kardiologija
-Paslaugos: Širdies echoskopija, EKG, arterinės hipertenzijos valdymas.
-Adresas: Laisvės al. 5, Kaunas
-Kalbos: lietuvių, anglų, rusų
-Apie: Su 10 metų patirtimi kardiologijos srityje, Dr. Eglė Eglė yra gerbiamas specialistas, turintis gilias žinias apie širdies ligas. Ji yra įsipareigojusi teikti aukščiausios kokybės priežiūrą, naudodama pažangiausias diagnostikos ir gydymo technikas.
-
-Dr. Tomas Tomauskas
-Darbo laikas: 8-11 val.
-Specializacija: ortopedija
-Paslaugos: Traumų gydymas, sąnarių endoprotezavimas, reabilitacija.
-Adresas: Taikos pr. 99, Klaipėda
-Kalbos: lietuvių, anglų
-Apie: Ortopedijos srityje dirbantis Dr. Tomas Tomauskas, turintis 8 metų patirtį, specializuojasi traumų gydyme ir sąnarių keitimo operacijose. Jo požiūris į kiekvieną pacientą yra individualizuotas, siekiant optimalaus atsigavimo.
-
-Dr. Dalia Dalinskienė
-Darbo laikas: 18-20 val.
-Specializacija: dermatologija
-Paslaugos: Odos ligų diagnostika ir gydymas, lazerinė dermatologija, estetinės procedūros.
-Adresas: Tilžės g. 25, Šiauliai
-Kalbos: lietuvių, rusų
-Apie: Dr. Dalia Dalinskienė yra dermatologė su 12 metų patirtimi, pasižyminti išskirtiniu dėmesiu odos sveikatai ir grožiui. Ji nuolat tobulina savo žinias estetinės dermatologijos srityje, kad galėtų pasiūlyti pacientams naujausias ir veiksmingiausias procedūras.
-
-Dr. Mindaugas Mindaugaitis
-Specializacija: endokrinologija
-Paslaugos: Cukrinio diabeto valdymas, skydliaukės ligų gydymas, hormonų disbalanso korekcija.
-Adresas: Respublikos g. 2, Panevėžys
-Kalbos: lietuvių, anglų
-Apie: Turintis 7 metų patirtį, Dr. Mindaugas Mindaugaitis yra vienas iš pirmaujančių endokrinologijos specialistų, kuris yra įsipareigojęs teikti individualizuotą priežiūrą pacientams su įvairiais hormonų sutrikimais. Jo požiūris į gydymą yra holistinis, siekiant ne tik spręsti simptomus, bet ir gerinti bendrą pacientų gyvenimo kokybę.
 
 
 
