@@ -4,9 +4,54 @@ Naudinga informacija UAB InMedica įmonės darbuotojams:
 IT Sistemos ir Kompiuterių Priežiūra:
 
 Jei turite idėjų ar pasiūlymų dėl IT sistemų tobulinimo, prašome kreiptis į IT vystymo padalinio vadovą Mantą Varną. Kontaktai: tel. +370 616 97126, el. paštas mantas.varna@inmedica.lt. Tobulinti galima šias sistemas: Foxus (skirta medikams, gydytojams ir administracijai), TSM (skirta buhalterijai ir finansams), Edrana (skirta personalo valdymui), ClinicCards (skirta odontologams), Qlik (skirta personalo duomenų analizei)
- 
-Kilus problemoms su IT sistemomis arba kompiuteriais (kompais), kreipkitės į IT pagalbos padalinį. Registracijos nuoroda: https://it.inmedica.lt/scp/login.php. Skubiais klausimais dėl kompiuterių gedimų galite skambinti Matui Urbonavičiui, tel. nr. +37068814479. Skubiais klausimais dėl sistemų blogo veikimo arba neveikimo, galite skambinti Aurimui Morkūnui, tel. nr. +370 616 51730.  
 
+Kilus problemoms su IT sistemomis arba kompiuteriais, esant kritinėms problemoms, kai neįmanoma tęsti darbo kitomis priemonėmis ar funkcijomis,
+registruokite užklausą https://it.inmedica.lt ir papildomai skambinkite mobiliais telefonais pagal
+atsakomybių sritį: 
+
+IS komanda - atsakinga už informacinių sistemų esantį funkcionalumą: 
+
+ADMINISTRACIJA, INMEDICA, KARDIOLITA
+Ugnė Skeirytė
+Darbo laikas 
+I – IV 08:00 – 17:00val, V 08:00 – 16:30val
+Ugne.skeiryte@inmedica.lt
++370 661 69541
+
+Aurimas Morkūnas
+Darbo laikas 
+I – IV 08:00 – 17:00val, V 08:00 – 16:30val.
+Aurimas.morkunas@inmedica.lt 
++ 370 616 51730
+
+IT komanda - atsakinga už kompiuterių geležinę įrangą, telefonus, el. paštą, spausdintuvus, interneto ir telefonijos ryšius, PĮ ir pan:
+
+INMEDICA, ADMINISTRACIJA
+Andrius Luomanas
+Darbo laikas
+I - V 08:00 – 17:00val
+Andrius.luomanas@inmedica.lt 
++370 600 61550
+
+Matas Urbanavičius 
+Darbo laikas
+I - V  08:00 – 17:00val
+Matas.urbanavicius@inmedica.lt 
++370 688 14479
+
+KARDIOLITA, INMEDICA
+Linas Lengvinas
+Darbo laikas
+I - V 07:00 – 16:00val
+Linas.lengvinas@inmedica.lt   
++370 664 79944
+
+Aurimas Petronis
+Darbo laikas 
+I – V 15:00 – 21:00val
+Aurimas.petronis@inmedica.lt
++370 669 11459
+Papildomai teikia pagalba tik dėl KRITINIŲ problemų I - V po darbo laiko ir VI – VII KRITINIŲ problemų sprendimui. 
 
 Personalas ir Administracija:
 
