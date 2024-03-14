@@ -5,9 +5,9 @@ IT Sistemos ir Kompiuterių Priežiūra:
 
 Jei turite idėjų ar pasiūlymų dėl IT sistemų tobulinimo, prašome kreiptis į IT vystymo padalinio vadovą Mantą Varną. Kontaktai: tel. +370 616 97126, el. paštas mantas.varna@inmedica.lt. Tobulinti galima šias sistemas: Foxus (skirta medikams, gydytojams ir administracijai), TSM (skirta buhalterijai ir finansams), Edrana (skirta personalo valdymui), ClinicCards (skirta odontologams), Qlik (skirta personalo duomenų analizei)
 
-Kilus problemoms su IT sistemomis arba kompiuteriais, esant kritinėms problemoms, kai neįmanoma tęsti darbo kitomis priemonėmis ar funkcijomis,
-registruokite užklausą https://it.inmedica.lt ir papildomai skambinkite mobiliais telefonais pagal
-atsakomybių sritį: 
+Kilus problemoms su IT sistemomis arba kompiuteriais, registruokite užklausą https://it.inmedica.lt. 
+
+Esant kritinėms IT problemoms, kai neįmanoma tęsti darbo kitomis priemonėmis ar funkcijomis, papildomai skambinkite mobiliais telefonais pagal atsakomybių sritį: 
 
 IS komanda - atsakinga už informacinių sistemų esantį funkcionalumą: 
 
